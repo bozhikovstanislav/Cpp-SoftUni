@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/01.UseOfStdPair.dir/01.Uses-of-std-pair.cpp.o  -o 01.UseOfStdPair 

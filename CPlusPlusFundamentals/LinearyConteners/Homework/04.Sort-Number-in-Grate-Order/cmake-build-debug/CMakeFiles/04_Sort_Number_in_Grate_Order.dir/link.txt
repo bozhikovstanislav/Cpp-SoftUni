@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/04_Sort_Number_in_Grate_Order.dir/main.cpp.o  -o 04_Sort_Number_in_Grate_Order 

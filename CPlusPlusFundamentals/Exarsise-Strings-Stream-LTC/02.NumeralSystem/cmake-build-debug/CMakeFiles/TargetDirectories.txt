@@ -1,0 +1,3 @@
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/Exercises-on-Strings-Streams-and-Linear-Containers/Problem 2 – Numeral System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/Exercises-on-Strings-Streams-and-Linear-Containers/Problem 2 – Numeral System/cmake-build-debug/CMakeFiles/Problem_2__Numeral_System.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/Exercises-on-Strings-Streams-and-Linear-Containers/Problem 2 – Numeral System/cmake-build-debug/CMakeFiles/edit_cache.dir

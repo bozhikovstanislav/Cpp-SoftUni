@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/01.EvenOddinMap.cpp
+iostream
+-
+string
+-
+algorithm
+-
+utility
+-
+map
+-
+

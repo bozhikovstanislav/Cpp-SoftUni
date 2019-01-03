@@ -1,0 +1,3 @@
+/home/stanislav/CLionProjects/SofUniSalution/Day3/HomeWork/05-SumOfNumbersInString/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stanislav/CLionProjects/SofUniSalution/Day3/HomeWork/05-SumOfNumbersInString/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stanislav/CLionProjects/SofUniSalution/Day3/HomeWork/05-SumOfNumbersInString/cmake-build-debug/CMakeFiles/05_SumOfNumbersInString.dir

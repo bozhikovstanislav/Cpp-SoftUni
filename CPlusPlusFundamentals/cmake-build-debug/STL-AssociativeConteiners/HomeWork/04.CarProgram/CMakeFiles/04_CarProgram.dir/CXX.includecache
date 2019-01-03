@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/04.CarProgram.cpp
+iostream
+-
+map
+-
+utility
+-
+vector
+-
+string
+-
+tuple
+-
+

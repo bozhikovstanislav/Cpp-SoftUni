@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Problem_2__Numeral_System.dir/main.cpp.o  -o Problem_2__Numeral_System 

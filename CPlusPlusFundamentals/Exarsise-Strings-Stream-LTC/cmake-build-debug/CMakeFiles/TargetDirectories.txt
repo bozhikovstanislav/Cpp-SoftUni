@@ -1,0 +1,12 @@
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/CMakeFiles/Exarsise_Strings_Stream_LTC.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/01.ReverseWord/CMakeFiles/rebuild_cache.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/01.ReverseWord/CMakeFiles/01.ReverseWord.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/01.ReverseWord/CMakeFiles/edit_cache.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/02.NumeralSystem/CMakeFiles/rebuild_cache.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/02.NumeralSystem/CMakeFiles/edit_cache.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/03.Minesweeper/CMakeFiles/rebuild_cache.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/03.Minesweeper/CMakeFiles/03.Minesweeper.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/cmake-build-debug/03.Minesweeper/CMakeFiles/edit_cache.dir

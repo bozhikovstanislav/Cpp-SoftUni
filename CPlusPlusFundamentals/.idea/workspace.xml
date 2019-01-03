@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SofUniSalution" targetName="AbaveAverageVector" />
+      <config projectName="SofUniSalution" targetName="04_ReversString" />
+      <config projectName="SofUniSalution" targetName="05.UnorederdMap" />
+      <config projectName="SofUniSalution" targetName="CrtesianProduct" />
+      <config projectName="SofUniSalution" targetName="05_Using_Iterators_with_vector" />
+      <config projectName="SofUniSalution" targetName="Closessed" />
+      <config projectName="SofUniSalution" targetName="08.SortingArrayLikeConteiners" />
+      <config projectName="SofUniSalution" targetName="04_vector" />
+      <config projectName="SofUniSalution" targetName="04.std-string-Comparison-and-Search" />
+      <config projectName="SofUniSalution" targetName="OnToN" />
+      <config projectName="SofUniSalution" targetName="CompareArray" />
+      <config projectName="SofUniSalution" targetName="03_CommaReplacement" />
+      <config projectName="SofUniSalution" targetName="09.Parsing-Numbers-from-a-Line" />
+      <config projectName="SofUniSalution" targetName="06.std-string-Substring-Erase-Replace" />
+      <config projectName="SofUniSalution" targetName="GSD" />
+      <config projectName="SofUniSalution" targetName="07.Using-std-stringstream" />
+      <config projectName="SofUniSalution" targetName="Library" />
+      <config projectName="SofUniSalution" targetName="Exarsise_Strings_Stream_LTC" />
+      <config projectName="SofUniSalution" targetName="SofUniSalution" />
+      <config projectName="SofUniSalution" targetName="02.StdMap" />
+      <config projectName="SofUniSalution" targetName="02_Find_INDEX_in_DualArray" />
+      <config projectName="SofUniSalution" targetName="01.ReverseWord" />
+      <config projectName="SofUniSalution" targetName="06_list" />
+      <config projectName="SofUniSalution" targetName="07_Container_Adaptors" />
+      <config projectName="SofUniSalution" targetName="MInMax" />
+      <config projectName="SofUniSalution" targetName="03.std-string-Basics" />
+      <config projectName="SofUniSalution" targetName="10.Reading-From-and-Writing-to-Files" />
+      <config projectName="SofUniSalution" targetName="03.MapIndexingOperator" />
+      <config projectName="SofUniSalution" targetName="03_Find_Even_Numbers_in_Vectors" />
+      <config projectName="SofUniSalution" targetName="ClosestNumber" />
+      <config projectName="SofUniSalution" targetName="NumberOrder" />
+      <config projectName="SofUniSalution" targetName="11.SearchingRangeNotFoundPitfall" />
+      <config projectName="SofUniSalution" targetName="MOsteFrecuantNumber" />
+      <config projectName="SofUniSalution" targetName="01_FilterStrings" />
+      <config projectName="SofUniSalution" targetName="03_FindPointIfInsideOutSide" />
+      <config projectName="SofUniSalution" targetName="01.UseOfStdPair" />
+      <config projectName="SofUniSalution" targetName="02a.C-stringsbuild-infunctions" />
+      <config projectName="SofUniSalution" targetName="04.StdSet" />
+      <config projectName="SofUniSalution" targetName="LongestSequance" />
+      <config projectName="SofUniSalution" targetName="12.SomeOtherAlgorithums" />
+      <config projectName="SofUniSalution" targetName="08.Reading-with-getline-and-Streams" />
+      <config projectName="SofUniSalution" targetName="01.C-Strings-Basics" />
+      <config projectName="SofUniSalution" targetName="02_FilterByNameorAge" />
+      <config projectName="SofUniSalution" targetName="AbaveAverage" />
+      <config projectName="SofUniSalution" targetName="09.SprtingLinkedList" />
+      <config projectName="SofUniSalution" targetName="05_Find_Sum_of_All_Numbers_in_Vector" />
+      <config projectName="SofUniSalution" targetName="00.Array-example" />
+      <config projectName="SofUniSalution" targetName="08_Browser_History" />
+      <config projectName="SofUniSalution" targetName="10.SearchingAlgorithums" />
+      <config projectName="SofUniSalution" targetName="Quadratic" />
+      <config projectName="SofUniSalution" targetName="04_CarProgram" />
+      <config projectName="SofUniSalution" targetName="02.Non-Terminated-C-Strings" />
+      <config projectName="SofUniSalution" targetName="SignProduct" />
+      <config projectName="SofUniSalution" targetName="05.std-string-Find-Multiple-Occurrences" />
+      <config projectName="SofUniSalution" targetName="02.NumeralSystem" />
+      <config projectName="SofUniSalution" targetName="03.Minesweeper" />
+      <config projectName="SofUniSalution" targetName="06.UnorderedSet" />
+      <config projectName="SofUniSalution" targetName="02_Row_Major_Order_in_Multidimensional_Arrays" />
+      <config projectName="SofUniSalution" targetName="07.MapOfVectors" />
+      <config projectName="SofUniSalution" targetName="01_EvenOddInMap" />
+      <config projectName="SofUniSalution" targetName="02_EquaStrings" />
+      <config projectName="SofUniSalution" targetName="04_Sort_Number_in_Grate_Order" />
+      <config projectName="SofUniSalution" targetName="03_Multidimensional_Containers" />
+      <config projectName="SofUniSalution" targetName="01_Find_EVENS_in_DualArray" />
+      <config projectName="SofUniSalution" targetName="05_SumOfNumbersInString" />
+      <config projectName="SofUniSalution" targetName="01.Multidimensional-Array" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5be8ccc-20fd-48fb-a677-2f3fe2479677" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/.~. EVEN ODD in Map_Условия.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/01. EVEN ODD in Map_Условия.docx" beforeDir="false" afterPath="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/01. EVEN ODD in Map_Условия.docx" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/04.CarProgram/04.CarProgram.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/Demo/02.StdMap/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/01.EvenOddinMap.cpp" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/test.cpp" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/02.FilterByNameOrAge.cpp" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.Sorting-Linked-Lists.cpp" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/04.CarProgram/04.CarProgram.cpp" />
+        <option value="$PROJECT_DIR$/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/03.map-Indexing-Operator-Pitfall.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="28" />
+    <option name="width" value="1922" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Programming-Basics-Book-CPP-BG-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.04_CarProgram">
+    <configuration name="00.Array-example" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="00.Array-example" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="00.Array-example">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01.C-Strings-Basics" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="01.C-Strings-Basics" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="01.C-Strings-Basics">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01_EvenOddInMap" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Assotiativ-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="01_EvenOddInMap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="01_EvenOddInMap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01_FilterStrings" type="CMakeRunConfiguration" factoryName="Application" folderName="String-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="01_FilterStrings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="01_FilterStrings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01_Find_EVENS_in_DualArray" type="CMakeRunConfiguration" factoryName="Application" folderName="LineryConteiner-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="01_Find_EVENS_in_DualArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="01_Find_EVENS_in_DualArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01.Multidimensional-Array" type="CMakeRunConfiguration" factoryName="Application" folderName="LinearConteiners-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="01.Multidimensional-Array" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="01.Multidimensional-Array">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01.ReverseWord" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Stream-Exarsise" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="01.ReverseWord" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="01.ReverseWord">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="01.UseOfStdPair" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="01.UseOfStdPair" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="01.UseOfStdPair">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02_EquaStrings" type="CMakeRunConfiguration" factoryName="Application" folderName="String-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="02_EquaStrings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="02_EquaStrings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02_FilterByNameorAge" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Assotiativ-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="02_FilterByNameorAge" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="02_FilterByNameorAge">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02_Find_INDEX_in_DualArray" type="CMakeRunConfiguration" factoryName="Application" folderName="LineryConteiner-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="02_Find_INDEX_in_DualArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="02_Find_INDEX_in_DualArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02.Non-Terminated-C-Strings" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="02.Non-Terminated-C-Strings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="02.Non-Terminated-C-Strings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02.NumeralSystem" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Stream-Exarsise" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="02.NumeralSystem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="02.NumeralSystem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02_Row_Major_Order_in_Multidimensional_Arrays" type="CMakeRunConfiguration" factoryName="Application" folderName="LinearConteiners-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="02_Row_Major_Order_in_Multidimensional_Arrays" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="02_Row_Major_Order_in_Multidimensional_Arrays">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02.StdMap" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="02.StdMap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="02.StdMap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02a.C-stringsbuild-infunctions" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="02a.C-stringsbuild-infunctions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="02a.C-stringsbuild-infunctions">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="03_CommaReplacement" type="CMakeRunConfiguration" factoryName="Application" folderName="String-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="03_CommaReplacement" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="03_CommaReplacement">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="03_FindPointIfInsideOutSide" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Assotiativ-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="03_FindPointIfInsideOutSide" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="03_FindPointIfInsideOutSide">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="03_Find_Even_Numbers_in_Vectors" type="CMakeRunConfiguration" factoryName="Application" folderName="LineryConteiner-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="03_Find_Even_Numbers_in_Vectors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="03_Find_Even_Numbers_in_Vectors">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="03.MapIndexingOperator" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="03.MapIndexingOperator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="03.MapIndexingOperator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="03.Minesweeper" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Stream-Exarsise" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="03.Minesweeper" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="03.Minesweeper">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="03_Multidimensional_Containers" type="CMakeRunConfiguration" factoryName="Application" folderName="LinearConteiners-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="03_Multidimensional_Containers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="03_Multidimensional_Containers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="03.std-string-Basics" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="03.std-string-Basics" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="03.std-string-Basics">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="04_CarProgram" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Assotiativ-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="04_CarProgram" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="04_CarProgram">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="04_ReversString" type="CMakeRunConfiguration" factoryName="Application" folderName="String-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="04_ReversString" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="04_ReversString">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="04_Sort_Number_in_Grate_Order" type="CMakeRunConfiguration" factoryName="Application" folderName="LineryConteiner-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="04_Sort_Number_in_Grate_Order" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="04_Sort_Number_in_Grate_Order">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="04.StdSet" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="04.StdSet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="04.StdSet">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="04.std-string-Comparison-and-Search" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="04.std-string-Comparison-and-Search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="04.std-string-Comparison-and-Search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="04_vector" type="CMakeRunConfiguration" factoryName="Application" folderName="LinearConteiners-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="04_vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="04_vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="05_Find_Sum_of_All_Numbers_in_Vector" type="CMakeRunConfiguration" factoryName="Application" folderName="LineryConteiner-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="05_Find_Sum_of_All_Numbers_in_Vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="05_Find_Sum_of_All_Numbers_in_Vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="05_SumOfNumbersInString" type="CMakeRunConfiguration" factoryName="Application" folderName="String-HomeWork" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="05_SumOfNumbersInString" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="05_SumOfNumbersInString">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="05.UnorederdMap" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="05.UnorederdMap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="05.UnorederdMap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="05_Using_Iterators_with_vector" type="CMakeRunConfiguration" factoryName="Application" folderName="LinearConteiners-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="05_Using_Iterators_with_vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="05_Using_Iterators_with_vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="05.std-string-Find-Multiple-Occurrences" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="05.std-string-Find-Multiple-Occurrences" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="05.std-string-Find-Multiple-Occurrences">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="06.UnorderedSet" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="06.UnorderedSet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="06.UnorderedSet">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="06_list" type="CMakeRunConfiguration" factoryName="Application" folderName="LinearConteiners-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="06_list" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="06_list">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="06.std-string-Substring-Erase-Replace" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="06.std-string-Substring-Erase-Replace" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="06.std-string-Substring-Erase-Replace">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="07_Container_Adaptors" type="CMakeRunConfiguration" factoryName="Application" folderName="LinearConteiners-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="07_Container_Adaptors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="07_Container_Adaptors">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="07.MapOfVectors" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="07.MapOfVectors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="07.MapOfVectors">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="07.Using-std-stringstream" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="07.Using-std-stringstream" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="07.Using-std-stringstream">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="08_Browser_History" type="CMakeRunConfiguration" factoryName="Application" folderName="LinearConteiners-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="08_Browser_History" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="08_Browser_History">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="08.Reading-with-getline-and-Streams" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="08.Reading-with-getline-and-Streams" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="08.Reading-with-getline-and-Streams">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="08.SortingArrayLikeConteiners" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="08.SortingArrayLikeConteiners" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="08.SortingArrayLikeConteiners">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="09.Parsing-Numbers-from-a-Line" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="09.Parsing-Numbers-from-a-Line" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="09.Parsing-Numbers-from-a-Line">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="09.SprtingLinkedList" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="09.SprtingLinkedList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="09.SprtingLinkedList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10.Reading-From-and-Writing-to-Files" type="CMakeRunConfiguration" factoryName="Application" folderName="Strings-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="10.Reading-From-and-Writing-to-Files" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="10.Reading-From-and-Writing-to-Files">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="10.SearchingAlgorithums" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="10.SearchingAlgorithums" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="10.SearchingAlgorithums">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="11.SearchingRangeNotFoundPitfall" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="11.SearchingRangeNotFoundPitfall" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="11.SearchingRangeNotFoundPitfall">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="12.SomeOtherAlgorithums" type="CMakeRunConfiguration" factoryName="Application" folderName="STL-Associativ-Demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="12.SomeOtherAlgorithums" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="12.SomeOtherAlgorithums">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbaveAverage" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="AbaveAverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="AbaveAverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbaveAverageVector" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="AbaveAverageVector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="AbaveAverageVector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Closessed" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="Closessed" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="Closessed">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClosestNumber" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="ClosestNumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="ClosestNumber">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareArray" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="CompareArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="CompareArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrtesianProduct" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="CrtesianProduct" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="CrtesianProduct">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exarsise_Strings_Stream_LTC" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="Exarsise_Strings_Stream_LTC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="Exarsise_Strings_Stream_LTC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GSD" type="CMakeRunConfiguration" factoryName="Application" folderName="Intro" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="GSD" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="GSD">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="Library" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSequance" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="LongestSequance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="LongestSequance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MInMax" type="CMakeRunConfiguration" factoryName="Application" folderName="Intro" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="MInMax" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="MInMax">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MOsteFrecuantNumber" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="MOsteFrecuantNumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="MOsteFrecuantNumber">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOrder" type="CMakeRunConfiguration" factoryName="Application" folderName="Intro" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="NumberOrder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="NumberOrder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnToN" type="CMakeRunConfiguration" factoryName="Application" folderName="Intro" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="OnToN" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="OnToN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quadratic" type="CMakeRunConfiguration" factoryName="Application" folderName="Intro" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="Quadratic" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="Quadratic">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignProduct" type="CMakeRunConfiguration" factoryName="Application" folderName="Intro" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="SignProduct" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="SignProduct">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SofUniSalution" type="CMakeRunConfiguration" factoryName="Application" folderName="ArrayVectors" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SofUniSalution" TARGET_NAME="SofUniSalution" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SofUniSalution" RUN_TARGET_NAME="SofUniSalution">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SofUniSalution" />
+      <item itemvalue="Application.AbaveAverage" />
+      <item itemvalue="Application.AbaveAverageVector" />
+      <item itemvalue="Application.Closessed" />
+      <item itemvalue="Application.ClosestNumber" />
+      <item itemvalue="Application.CompareArray" />
+      <item itemvalue="Application.CrtesianProduct" />
+      <item itemvalue="Application.LongestSequance" />
+      <item itemvalue="Application.Exarsise_Strings_Stream_LTC" />
+      <item itemvalue="Application.MOsteFrecuantNumber" />
+      <item itemvalue="Application.GSD" />
+      <item itemvalue="Application.MInMax" />
+      <item itemvalue="Application.NumberOrder" />
+      <item itemvalue="Application.OnToN" />
+      <item itemvalue="Application.Quadratic" />
+      <item itemvalue="Application.SignProduct" />
+      <item itemvalue="Application.03_Multidimensional_Containers" />
+      <item itemvalue="Application.01.Multidimensional-Array" />
+      <item itemvalue="Application.02_Row_Major_Order_in_Multidimensional_Arrays" />
+      <item itemvalue="Application.04_vector" />
+      <item itemvalue="Application.05_Using_Iterators_with_vector" />
+      <item itemvalue="Application.06_list" />
+      <item itemvalue="Application.07_Container_Adaptors" />
+      <item itemvalue="Application.08_Browser_History" />
+      <item itemvalue="Application.03_Find_Even_Numbers_in_Vectors" />
+      <item itemvalue="Application.01_Find_EVENS_in_DualArray" />
+      <item itemvalue="Application.02_Find_INDEX_in_DualArray" />
+      <item itemvalue="Application.04_Sort_Number_in_Grate_Order" />
+      <item itemvalue="Application.05_Find_Sum_of_All_Numbers_in_Vector" />
+      <item itemvalue="Application.01.UseOfStdPair" />
+      <item itemvalue="Application.02.StdMap" />
+      <item itemvalue="Application.03.MapIndexingOperator" />
+      <item itemvalue="Application.04.StdSet" />
+      <item itemvalue="Application.05.UnorederdMap" />
+      <item itemvalue="Application.06.UnorderedSet" />
+      <item itemvalue="Application.07.MapOfVectors" />
+      <item itemvalue="Application.08.SortingArrayLikeConteiners" />
+      <item itemvalue="Application.09.SprtingLinkedList" />
+      <item itemvalue="Application.10.SearchingAlgorithums" />
+      <item itemvalue="Application.11.SearchingRangeNotFoundPitfall" />
+      <item itemvalue="Application.12.SomeOtherAlgorithums" />
+      <item itemvalue="Application.01_EvenOddInMap" />
+      <item itemvalue="Application.02_FilterByNameorAge" />
+      <item itemvalue="Application.03_FindPointIfInsideOutSide" />
+      <item itemvalue="Application.04_CarProgram" />
+      <item itemvalue="Application.01.ReverseWord" />
+      <item itemvalue="Application.02.NumeralSystem" />
+      <item itemvalue="Application.03.Minesweeper" />
+      <item itemvalue="Application.01_FilterStrings" />
+      <item itemvalue="Application.02_EquaStrings" />
+      <item itemvalue="Application.03_CommaReplacement" />
+      <item itemvalue="Application.04_ReversString" />
+      <item itemvalue="Application.05_SumOfNumbersInString" />
+      <item itemvalue="Application.00.Array-example" />
+      <item itemvalue="Application.01.C-Strings-Basics" />
+      <item itemvalue="Application.02.Non-Terminated-C-Strings" />
+      <item itemvalue="Application.02a.C-stringsbuild-infunctions" />
+      <item itemvalue="Application.03.std-string-Basics" />
+      <item itemvalue="Application.04.std-string-Comparison-and-Search" />
+      <item itemvalue="Application.05.std-string-Find-Multiple-Occurrences" />
+      <item itemvalue="Application.06.std-string-Substring-Erase-Replace" />
+      <item itemvalue="Application.07.Using-std-stringstream" />
+      <item itemvalue="Application.08.Reading-with-getline-and-Streams" />
+      <item itemvalue="Application.09.Parsing-Numbers-from-a-Line" />
+      <item itemvalue="Application.10.Reading-From-and-Writing-to-Files" />
+      <item itemvalue="Application.Library" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5be8ccc-20fd-48fb-a677-2f3fe2479677" name="Default Changelist" comment="" />
+      <created>1544999077178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544999077178</updated>
+      <workItem from="1544999078478" duration="12000" />
+      <workItem from="1544999107320" duration="22000" />
+      <workItem from="1545601997980" duration="183000" />
+      <workItem from="1545602226958" duration="167000" />
+      <workItem from="1545602936515" duration="407000" />
+      <workItem from="1545603664569" duration="18000" />
+      <workItem from="1545627515386" duration="8000" />
+      <workItem from="1545838806660" duration="24000" />
+      <workItem from="1546108813429" duration="687000" />
+      <workItem from="1546110062968" duration="141000" />
+      <workItem from="1546110260987" duration="27000" />
+      <workItem from="1546110877816" duration="2184000" />
+      <workItem from="1546113250532" duration="49857000" />
+      <workItem from="1546250644528" duration="22000" />
+      <workItem from="1546251220405" duration="46000" />
+    </task>
+    <task id="LOCAL-00001" summary="i">
+      <created>1545602986126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545602986126</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge branch 'master' of https://github.com/bozhikovstanislav/CPlusPlusFundamentals&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <created>1545603249679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545603249679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/bozhikovstanislav/CPlusPlusFundamentals&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <created>1545603331077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545603331077</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge branch 'master' of https://github.com/bozhikovstanislav/CPlusPlusFundamentals&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <created>1546112702530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546112702530</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge branch 'master' of https://github.com/bozhikovstanislav/CPlusPlusFundamentals&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <created>1546112929872</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546112929872</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge branch 'master' of https://github.com/bozhikovstanislav/CPlusPlusFundamentals&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <created>1546188439086</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546188439086</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge branch 'master' of https://github.com/bozhikovstanislav/CPlusPlusFundamentals&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml">
+      <created>1546188964363</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546188964363</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53805000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1922" height="1082" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30683032" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36421725" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399361" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.28966987" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290735" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="GfmBrowser" order="3" weight="0.32977587" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32977587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="i" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/bozhikovstanislav/CPlusPlusFundamentals&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/bozhikovstanislav/CPlusPlusFundamentals&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayVectors/.idea/Day2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayVectors/AbaveAverage/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/Demo/02.StdMap/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/7/sstream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="433" column="6" selection-start-line="433" selection-start-column="6" selection-end-line="433" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/Demo/07.MapOfVectors/07.Map-of-Vectors.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+          <folding>
+            <element signature="e#237#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/Demo/04.StdSet/04.std-set.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/Demo/02.StdMap/02.std-map.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/08.Sorting-Array-Like-Containers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/01.EvenOddinMap.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="25" column="19" selection-start-line="20" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/Demo/05.UnorederdMap/05.unordered-map.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.Sorting-Linked-Lists.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/02.FilterByNameOrAge.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="30" column="17" selection-start-line="24" selection-start-column="4" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="e#207#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/03.map-Indexing-Operator-Pitfall.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Merge_branch_'master'_of_https___github_com_bozhikovstanislav_CPlusPlusFundamentals__#_Con.patch">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/STL-AssociativeConteiners/HomeWork/04.CarProgram/04.CarProgram.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

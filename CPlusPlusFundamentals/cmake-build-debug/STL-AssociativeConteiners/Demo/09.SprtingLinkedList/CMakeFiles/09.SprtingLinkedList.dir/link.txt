@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.o  -o 09.SprtingLinkedList 

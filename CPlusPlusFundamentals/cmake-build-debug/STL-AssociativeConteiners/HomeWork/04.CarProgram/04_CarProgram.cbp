@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="04_CarProgram"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Strings\;CMake Files\Strings\04.Strings-and-Strems-demos\;CMake Files\Strings\04.Strings-and-Strems-demos\00.Array-example\;CMake Files\Strings\04.Strings-and-Strems-demos\01.C-Strings-Basics\;CMake Files\Strings\04.Strings-and-Strems-demos\02.Non-Terminated-C-Strings\;CMake Files\Strings\04.Strings-and-Strems-demos\02a.C-stringsbuild-infunctions\;CMake Files\Strings\04.Strings-and-Strems-demos\03.std-string-Basics\;CMake Files\Strings\04.Strings-and-Strems-demos\04.std-string-Comparison-and-Search\;CMake Files\Strings\04.Strings-and-Strems-demos\05.std-string-Find-Multiple-Occurrences\;CMake Files\Strings\04.Strings-and-Strems-demos\06.std-string-Substring-Erase-Replace\;CMake Files\Strings\04.Strings-and-Strems-demos\07.Using-std-stringstream\;CMake Files\Strings\04.Strings-and-Strems-demos\08.Reading-with-getline-and-Streams\;CMake Files\Strings\04.Strings-and-Strems-demos\09.Parsing-Numbers-from-a-Line\;CMake Files\Strings\04.Strings-and-Strems-demos\10.Reading-From-and-Writing-to-Files\;CMake Files\Strings\HomeWork\;CMake Files\Strings\HomeWork\01-FilterStrings\;CMake Files\Strings\HomeWork\02-EquaStrings\;CMake Files\Strings\HomeWork\03-CommaReplacement\;CMake Files\Strings\HomeWork\04-ReversString\;CMake Files\Strings\HomeWork\05-SumOfNumbersInString\;CMake Files\LinearyConteners\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\01.Multidimensional-Arrays\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\02.Row-Major-Order-in-Multidimensional-Arrays\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\03.Multidimensional-Containers\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\04.vector\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\05.Using-Iterators-with-vector\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\06.list\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\07.Container-Adaptors\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\08.Browser-History\;CMake Files\LinearyConteners\Homework\;CMake Files\LinearyConteners\Homework\01.Find-EVENS-in-DualArray\;CMake Files\LinearyConteners\Homework\02.Find-INDEX-in-DualArray\;CMake Files\LinearyConteners\Homework\03.Find-Even-Numbers-in-Vectors\;CMake Files\LinearyConteners\Homework\04.Sort-Number-in-Grate-Order\;CMake Files\LinearyConteners\Homework\05.Find-Sum-of-All-Numbers-in-Vector\;CMake Files\Exarsise-Strings-Stream-LTC\;CMake Files\Exarsise-Strings-Stream-LTC\01.ReverseWord\;CMake Files\Exarsise-Strings-Stream-LTC\02.NumeralSystem\;CMake Files\Exarsise-Strings-Stream-LTC\03.Minesweeper\;CMake Files\STL-AssociativeConteiners\;CMake Files\STL-AssociativeConteiners\Demo\;CMake Files\STL-AssociativeConteiners\Demo\01.UseOfStdPair\;CMake Files\STL-AssociativeConteiners\Demo\02.StdMap\;CMake Files\STL-AssociativeConteiners\Demo\03.MapIndexingOperator\;CMake Files\STL-AssociativeConteiners\Demo\04.StdSet\;CMake Files\STL-AssociativeConteiners\Demo\05.UnorederdMap\;CMake Files\STL-AssociativeConteiners\Demo\06.UnorderedSet\;CMake Files\STL-AssociativeConteiners\Demo\07.MapOfVectors\;CMake Files\STL-AssociativeConteiners\Demo\08.SortingArrayLikeConteiners\;CMake Files\STL-AssociativeConteiners\Demo\09.SprtingLinkedList\;CMake Files\STL-AssociativeConteiners\Demo\10.SearchingAlgorithums\;CMake Files\STL-AssociativeConteiners\Demo\11.SearchingRangeNotFoundPitfall\;CMake Files\STL-AssociativeConteiners\Demo\12.SomeOtherAlgorithums\;CMake Files\STL-AssociativeConteiners\HomeWork\;CMake Files\STL-AssociativeConteiners\HomeWork\01.EvenOddInMap\;CMake Files\STL-AssociativeConteiners\HomeWork\02.FilterByNameorAge\;CMake Files\STL-AssociativeConteiners\HomeWork\03.FindPointIfInsideOutSide\;CMake Files\STL-AssociativeConteiners\HomeWork\04.CarProgram\;CMake Files\ArrayVectors\;CMake Files\ArrayVectors\AbaveAverage\;CMake Files\ArrayVectors\AbaveAverageVector\;CMake Files\ArrayVectors\Closessed\;CMake Files\ArrayVectors\ClosestNumber\;CMake Files\ArrayVectors\CompareArray\;CMake Files\ArrayVectors\CrtesianProduct\;CMake Files\ArrayVectors\LongestSequance\;CMake Files\ArrayVectors\MOsteFrecuantNumber\;CMake Files\Intro\;CMake Files\Intro\GSD\;CMake Files\Intro\MInMax\;CMake Files\Intro\NumberOrder\;CMake Files\Intro\OnToN\;CMake Files\Intro\Quadratic\;CMake Files\Intro\SignProduct\;CMake Files\Library\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_CarProgram">
+				<Option output="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/04_CarProgram" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 04_CarProgram"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_CarProgram/fast">
+				<Option output="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/04_CarProgram" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 04_CarProgram/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/04.CarProgram.cpp">
+			<Option target="04_CarProgram"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/00.Array-example/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\00.Array-example\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/01.C-Strings-Basics/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\01.C-Strings-Basics\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\02.Non-Terminated-C-Strings\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\02a.C-stringsbuild-infunctions\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/03.std-string-Basics/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\03.std-string-Basics\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\04.std-string-Comparison-and-Search\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\05.std-string-Find-Multiple-Occurrences\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\06.std-string-Substring-Erase-Replace\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\07.Using-std-stringstream\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\08.Reading-with-getline-and-Streams\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\09.Parsing-Numbers-from-a-Line\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\10.Reading-From-and-Writing-to-Files\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/HomeWork/01-FilterStrings/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\HomeWork\01-FilterStrings\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/HomeWork/02-EquaStrings/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\HomeWork\02-EquaStrings\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/HomeWork/03-CommaReplacement/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\HomeWork\03-CommaReplacement\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/HomeWork/04-ReversString/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\HomeWork\04-ReversString\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/HomeWork/05-SumOfNumbersInString/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Strings\HomeWork\05-SumOfNumbersInString\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/01.Multidimensional-Arrays/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\01.Multidimensional-Arrays\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\02.Row-Major-Order-in-Multidimensional-Arrays\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\03.Multidimensional-Containers\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/04.vector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\04.vector\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\05.Using-Iterators-with-vector\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\06.list\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\07.Container-Adaptors\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\08.Browser-History\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\Homework\01.Find-EVENS-in-DualArray\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\Homework\02.Find-INDEX-in-DualArray\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\Homework\03.Find-Even-Numbers-in-Vectors\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\Homework\04.Sort-Number-in-Grate-Order\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LinearyConteners\Homework\05.Find-Sum-of-All-Numbers-in-Vector\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exarsise-Strings-Stream-LTC\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/01.ReverseWord/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exarsise-Strings-Stream-LTC\01.ReverseWord\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exarsise-Strings-Stream-LTC\02.NumeralSystem\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exarsise-Strings-Stream-LTC\03.Minesweeper\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/01.UseOfStdPair/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\01.UseOfStdPair\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/02.StdMap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\02.StdMap\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\03.MapIndexingOperator\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/04.StdSet/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\04.StdSet\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\05.UnorederdMap\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\06.UnorderedSet\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\07.MapOfVectors\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\08.SortingArrayLikeConteiners\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\09.SprtingLinkedList\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\10.SearchingAlgorithums\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\11.SearchingRangeNotFoundPitfall\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\12.SomeOtherAlgorithums\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\HomeWork\01.EvenOddInMap\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\HomeWork\02.FilterByNameorAge\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\HomeWork\03.FindPointIfInsideOutSide\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\HomeWork\04.CarProgram\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/AbaveAverage/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ArrayVectors\AbaveAverage\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/AbaveAverageVector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ArrayVectors\AbaveAverageVector\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/Closessed/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ArrayVectors\Closessed\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/ClosestNumber/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ArrayVectors\ClosestNumber\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/CompareArray/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ArrayVectors\CompareArray\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/CrtesianProduct/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ArrayVectors\CrtesianProduct\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/LongestSequance/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ArrayVectors\LongestSequance\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\ArrayVectors\MOsteFrecuantNumber\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/GSD/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Intro\GSD\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/MInMax/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Intro\MInMax\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/NumberOrder/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Intro\NumberOrder\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/OnToN/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Intro\OnToN\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/Quadratic/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Intro\Quadratic\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/SignProduct/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Intro\SignProduct\"/>
+		</Unit>
+		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Library/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Library\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

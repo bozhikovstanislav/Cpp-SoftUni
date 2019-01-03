@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Exarsise_Strings_Stream_LTC.dir/main.cpp.o  -o Exarsise_Strings_Stream_LTC 

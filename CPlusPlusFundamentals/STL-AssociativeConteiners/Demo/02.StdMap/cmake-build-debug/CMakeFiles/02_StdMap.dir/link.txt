@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/02_StdMap.dir/main.cpp.o  -o 02_StdMap 

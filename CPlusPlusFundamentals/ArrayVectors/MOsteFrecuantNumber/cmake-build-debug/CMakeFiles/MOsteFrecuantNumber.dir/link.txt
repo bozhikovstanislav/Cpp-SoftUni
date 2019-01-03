@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o  -o MOsteFrecuantNumber 

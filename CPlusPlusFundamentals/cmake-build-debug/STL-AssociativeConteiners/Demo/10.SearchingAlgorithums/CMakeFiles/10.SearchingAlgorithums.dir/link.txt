@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/10.SearchingAlgorithums.dir/10.Searching-Algorithms.cpp.o  -o 10.SearchingAlgorithums 

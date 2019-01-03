@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o  -o 01_Find_EVENS_in_DualArray 

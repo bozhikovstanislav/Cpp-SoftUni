@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AbaveAverage.dir/main.cpp.o  -o AbaveAverage 

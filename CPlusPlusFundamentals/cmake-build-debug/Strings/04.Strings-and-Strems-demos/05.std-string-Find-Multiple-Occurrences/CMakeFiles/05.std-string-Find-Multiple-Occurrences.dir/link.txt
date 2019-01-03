@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/main.cpp.o  -o 05.std-string-Find-Multiple-Occurrences 

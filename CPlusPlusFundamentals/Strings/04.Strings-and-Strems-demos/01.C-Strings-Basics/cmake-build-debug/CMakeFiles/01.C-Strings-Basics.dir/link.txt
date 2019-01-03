@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/01.C-Strings-Basics.dir/main.cpp.o  -o 01.C-Strings-Basics 

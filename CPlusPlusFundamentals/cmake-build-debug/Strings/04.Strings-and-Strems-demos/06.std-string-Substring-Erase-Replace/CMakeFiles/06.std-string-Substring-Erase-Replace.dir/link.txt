@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/06.std-string-Substring-Erase-Replace.dir/main.cpp.o  -o 06.std-string-Substring-Erase-Replace 

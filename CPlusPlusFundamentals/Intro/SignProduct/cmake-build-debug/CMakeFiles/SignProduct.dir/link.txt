@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SignProduct.dir/main.cpp.o  -o SignProduct 

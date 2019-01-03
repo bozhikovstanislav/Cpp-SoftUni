@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/05.Linear-Containers-Demos/06.list/main.cpp
+iostream
+-
+list
+-
+vector
+-
+

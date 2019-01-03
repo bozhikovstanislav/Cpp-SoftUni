@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/04.StdSet.dir/04.std-set.cpp.o  -o 04.StdSet 

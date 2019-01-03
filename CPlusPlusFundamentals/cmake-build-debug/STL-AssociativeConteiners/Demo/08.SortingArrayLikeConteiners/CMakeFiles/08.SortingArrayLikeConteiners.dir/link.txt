@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/08.SortingArrayLikeConteiners.dir/08.Sorting-Array-Like-Containers.cpp.o  -o 08.SortingArrayLikeConteiners 

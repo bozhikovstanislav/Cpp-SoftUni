@@ -1,0 +1,3 @@
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/Exercises-on-Strings-Streams-and-Linear-Containers/Problem 1 – Reverse words/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/Exercises-on-Strings-Streams-and-Linear-Containers/Problem 1 – Reverse words/cmake-build-debug/CMakeFiles/Problem_1__Reverse_words.dir
+/home/stanislav/Documents/CLionProjects/SofUniSalution/Exarsise-Strings-Stream-LTC/Exercises-on-Strings-Streams-and-Linear-Containers/Problem 1 – Reverse words/cmake-build-debug/CMakeFiles/edit_cache.dir

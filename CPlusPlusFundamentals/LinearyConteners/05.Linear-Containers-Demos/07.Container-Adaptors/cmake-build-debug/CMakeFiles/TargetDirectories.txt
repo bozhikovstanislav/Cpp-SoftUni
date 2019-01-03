@@ -1,0 +1,3 @@
+/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/cmake-build-debug/CMakeFiles/07_Container_Adaptors.dir
+/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/cmake-build-debug/CMakeFiles/edit_cache.dir

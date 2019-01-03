@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SofUniSalution.dir/main.cpp.o  -o SofUniSalution 

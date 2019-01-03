@@ -1,0 +1,21 @@
+/home/stanislav/Downloads/CLion-2018.3/clion-2018.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/stanislav/CLionProjects/SofUniSalution/Day3/04.Strings-and-Strems-demos/03.std-string-Basics
+CMake Error: Could not find cmake module file: CMakeDeterminefunctionsCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_functions_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_functions_COMPILER
+CMake Error: Could not find cmake module file: /home/stanislav/CLionProjects/SofUniSalution/Day3/04.Strings-and-Strems-demos/03.std-string-Basics/cmake-build-debug/CMakeFiles/3.12.3/CMakefunctionsCompiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_functions_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_functions_COMPILER to the full path to the compiler, or to the
+  compiler name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakefunctionsInformation.cmake
+CMake Error: CMAKE_functions_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "/home/stanislav/CLionProjects/SofUniSalution/Day3/04.Strings-and-Strems-demos/03.std-string-Basics/cmake-build-debug/CMakeFiles/CMakeOutput.log".

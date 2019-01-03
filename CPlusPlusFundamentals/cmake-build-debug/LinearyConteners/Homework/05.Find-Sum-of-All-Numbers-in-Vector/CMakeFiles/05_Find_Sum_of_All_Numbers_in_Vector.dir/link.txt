@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.o  -o 05_Find_Sum_of_All_Numbers_in_Vector 
