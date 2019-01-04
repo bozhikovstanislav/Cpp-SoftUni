@@ -59,10 +59,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram
+CMAKE_SOURCE_DIR = /home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/04_CarProgram.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
 CMakeFiles/04_CarProgram.dir/all:
 	$(MAKE) -f CMakeFiles/04_CarProgram.dir/build.make CMakeFiles/04_CarProgram.dir/depend
 	$(MAKE) -f CMakeFiles/04_CarProgram.dir/build.make CMakeFiles/04_CarProgram.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 04_CarProgram"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 04_CarProgram"
 .PHONY : CMakeFiles/04_CarProgram.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/04_CarProgram.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/04_CarProgram.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/04_CarProgram.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/04_CarProgram.dir/rule
 
 # Convenience name for target.

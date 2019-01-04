@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
+				<Option working_dir="/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
+				<Option working_dir="/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="04_CarProgram">
-				<Option output="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/04_CarProgram" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
+				<Option output="/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/04_CarProgram" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_CarProgram"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_CarProgram"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="04_CarProgram/fast">
-				<Option output="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/04_CarProgram" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
+				<Option output="/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/04_CarProgram" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,27 +67,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_CarProgram/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_CarProgram/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
+				<Option working_dir="/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/04.CarProgram.cpp">
+		<Unit filename="/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/04.CarProgram.cpp">
 			<Option target="04_CarProgram"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeLists.txt">
+		<Unit filename="/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram
+# Install script for directory: /home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/stanislav/GitRepository/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
