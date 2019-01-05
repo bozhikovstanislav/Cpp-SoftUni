@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/Quadratic/main.cpp" "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic/CMakeFiles/Quadratic.dir/main.cpp.o"
+  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic/main.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic/CMakeFiles/Quadratic.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

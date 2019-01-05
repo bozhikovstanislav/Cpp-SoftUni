@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/depend.make
@@ -59,16 +59,16 @@ include STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMa
 
 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.o: STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/flags.make
 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.o: ../STL-AssociativeConteiners/Demo/05.UnorederdMap/05.unordered-map.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap/05.unordered-map.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap/05.unordered-map.cpp
 
 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap/05.unordered-map.cpp > CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap/05.unordered-map.cpp > CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.i
 
 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap/05.unordered-map.cpp -o CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap/05.unordered-map.cpp -o CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.s
 
 # Object files for target 05.UnorederdMap
 05_UnorederdMap_OBJECTS = \
@@ -80,8 +80,8 @@ STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/05
 STL-AssociativeConteiners/Demo/05.UnorederdMap/05.UnorederdMap: STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/05.unordered-map.cpp.o
 STL-AssociativeConteiners/Demo/05.UnorederdMap/05.UnorederdMap: STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/build.make
 STL-AssociativeConteiners/Demo/05.UnorederdMap/05.UnorederdMap: STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 05.UnorederdMap"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/05.UnorederdMap.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 05.UnorederdMap"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/05.UnorederdMap.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/build: STL-AssociativeConteiners/Demo/05.UnorederdMap/05.UnorederdMap
@@ -89,10 +89,10 @@ STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/bu
 .PHONY : STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/build
 
 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && $(CMAKE_COMMAND) -P CMakeFiles/05.UnorederdMap.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap && $(CMAKE_COMMAND) -P CMakeFiles/05.UnorederdMap.dir/cmake_clean.cmake
 .PHONY : STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/clean
 
 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/depend
 

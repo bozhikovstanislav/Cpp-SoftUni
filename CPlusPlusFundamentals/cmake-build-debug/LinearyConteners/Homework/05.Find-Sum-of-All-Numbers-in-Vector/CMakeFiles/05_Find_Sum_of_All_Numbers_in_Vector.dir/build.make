@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/depend.make
@@ -59,16 +59,16 @@ include LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFile
 
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.o: LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/flags.make
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.o: ../LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/main.cpp
 
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/main.cpp > CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/main.cpp > CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.i
 
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/main.cpp -o CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/main.cpp -o CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.s
 
 # Object files for target 05_Find_Sum_of_All_Numbers_in_Vector
 05_Find_Sum_of_All_Numbers_in_Vector_OBJECTS = \
@@ -80,8 +80,8 @@ LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Fin
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/05_Find_Sum_of_All_Numbers_in_Vector: LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.o
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/05_Find_Sum_of_All_Numbers_in_Vector: LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/build.make
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/05_Find_Sum_of_All_Numbers_in_Vector: LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 05_Find_Sum_of_All_Numbers_in_Vector"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 05_Find_Sum_of_All_Numbers_in_Vector"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/build: LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/05_Find_Sum_of_All_Numbers_in_Vector
@@ -89,10 +89,10 @@ LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Fin
 .PHONY : LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/build
 
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && $(CMAKE_COMMAND) -P CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector && $(CMAKE_COMMAND) -P CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/cmake_clean.cmake
 .PHONY : LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/clean
 
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/depend
 

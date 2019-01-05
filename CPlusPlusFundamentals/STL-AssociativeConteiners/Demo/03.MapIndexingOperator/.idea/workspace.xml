@@ -11,7 +11,188 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5887ca7-0f88-47e1-a4e3-729b72ac3a86" name="Default Changelist" comment="" />
+    <list default="true" id="c5887ca7-0f88-47e1-a4e3-729b72ac3a86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/01.UseOfStdPair.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/01.UseOfStdPair.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01.UseOfStdPair.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01.UseOfStdPair.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01.UseOfStdPair.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01.UseOfStdPair.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01_UseOfStdPair.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01_UseOfStdPair.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01_UseOfStdPair.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01_UseOfStdPair.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01_UseOfStdPair.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01_UseOfStdPair.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/01_UseOfStdPair.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../01.UseOfStdPair/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/02.StdMap.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/02.StdMap.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02.StdMap.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02.StdMap.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02.StdMap.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02.StdMap.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02.StdMap.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02.StdMap.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02_StdMap.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02_StdMap.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02_StdMap.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02_StdMap.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02_StdMap.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02_StdMap.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/02_StdMap.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02.StdMap/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/03.MapIndexingOperator.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/03.MapIndexingOperator.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03.MapIndexingOperator.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03.MapIndexingOperator.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03.MapIndexingOperator.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03.MapIndexingOperator.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03_MapIndexingOperator.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03_MapIndexingOperator.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03_MapIndexingOperator.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03_MapIndexingOperator.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03_MapIndexingOperator.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03_MapIndexingOperator.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/03_MapIndexingOperator.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/01_EvenOddInMap.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/01_EvenOddInMap.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/01_EvenOddInMap.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/01_EvenOddInMap.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/01_EvenOddInMap.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/01_EvenOddInMap.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/01_EvenOddInMap.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/01_EvenOddInMap.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/01.EvenOddInMap/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/02_FilterByNameorAge.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/02_FilterByNameorAge.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/02.FilterByNameOrAge.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/02_FilterByNameorAge.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/02.FilterByNameorAge/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/03_FindPointIfInsideOutSide.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/03_FindPointIfInsideOutSide.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/03_FindPointIfInsideOutSide.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/03_FindPointIfInsideOutSide.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/04_CarProgram.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/04_CarProgram.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/04_CarProgram.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/04_CarProgram.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/04_CarProgram.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/04_CarProgram.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/04_CarProgram.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/04_CarProgram.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/04.CarProgram/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +202,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
@@ -34,7 +215,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,8 +227,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="166" />
     <option name="y" value="50" />
-    <option name="width" value="1312" />
-    <option name="height" value="1016" />
+    <option name="width" value="1308" />
+    <option name="height" value="956" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -55,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -66,13 +248,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../04.StdSet" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,24 +287,19 @@
       <option name="presentableId" value="Default" />
       <updated>1546110430925</updated>
       <workItem from="1546110432203" duration="50000" />
+      <workItem from="1546702516919" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50000" />
+    <option name="totallyTimeSpent" value="61000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="166" y="50" width="1312" height="1016" extended-state="0" />
-    <editor active="true" />
+    <frame x="166" y="50" width="1308" height="956" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25396827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -129,20 +307,28 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="GfmBrowser" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="GfmBrowser" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp" />
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">

@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/flags.make
 
 CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.o: CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/flags.make
 CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.o: ../11.Searching-Range-Not-Found-Pitfall.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/11.Searching-Range-Not-Found-Pitfall.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/11.Searching-Range-Not-Found-Pitfall.cpp
 
 CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/11.Searching-Range-Not-Found-Pitfall.cpp > CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/11.Searching-Range-Not-Found-Pitfall.cpp > CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.i
 
 CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/11.Searching-Range-Not-Found-Pitfall.cpp -o CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/11.Searching-Range-Not-Found-Pitfall.cpp -o CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.s
 
 # Object files for target 11.SearchingRangeNotFoundPitfall
 11_SearchingRangeNotFoundPitfall_OBJECTS = \
@@ -80,7 +80,7 @@ CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pit
 11.SearchingRangeNotFoundPitfall: CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/11.Searching-Range-Not-Found-Pitfall.cpp.o
 11.SearchingRangeNotFoundPitfall: CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/build.make
 11.SearchingRangeNotFoundPitfall: CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 11.SearchingRangeNotFoundPitfall"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 11.SearchingRangeNotFoundPitfall"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/clean:
 .PHONY : CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/clean
 
 CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug/CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/cmake-build-debug/CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/depend
 

@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/depend.make
@@ -59,16 +59,16 @@ include ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/flag
 
 ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o: ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/flags.make
 ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o: ../ArrayVectors/MOsteFrecuantNumber/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/main.cpp
 
 ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/main.cpp > CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/main.cpp > CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.i
 
 ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/main.cpp -o CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/main.cpp -o CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.s
 
 # Object files for target MOsteFrecuantNumber
 MOsteFrecuantNumber_OBJECTS = \
@@ -80,8 +80,8 @@ MOsteFrecuantNumber_EXTERNAL_OBJECTS =
 ArrayVectors/MOsteFrecuantNumber/MOsteFrecuantNumber: ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o
 ArrayVectors/MOsteFrecuantNumber/MOsteFrecuantNumber: ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/build.make
 ArrayVectors/MOsteFrecuantNumber/MOsteFrecuantNumber: ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable MOsteFrecuantNumber"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MOsteFrecuantNumber.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable MOsteFrecuantNumber"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MOsteFrecuantNumber.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/build: ArrayVectors/MOsteFrecuantNumber/MOsteFrecuantNumber
@@ -89,10 +89,10 @@ ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/build: Array
 .PHONY : ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/build
 
 ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && $(CMAKE_COMMAND) -P CMakeFiles/MOsteFrecuantNumber.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber && $(CMAKE_COMMAND) -P CMakeFiles/MOsteFrecuantNumber.dir/cmake_clean.cmake
 .PHONY : ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/clean
 
 ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/depend
 

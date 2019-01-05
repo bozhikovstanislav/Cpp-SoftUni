@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/depend.make
@@ -59,16 +59,16 @@ include ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/flags.make
 
 ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/main.cpp.o: ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/flags.make
 ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/main.cpp.o: ../ArrayVectors/AbaveAverage/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AbaveAverage.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/AbaveAverage/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/AbaveAverage.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverage/main.cpp
 
 ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AbaveAverage.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/AbaveAverage/main.cpp > CMakeFiles/AbaveAverage.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverage/main.cpp > CMakeFiles/AbaveAverage.dir/main.cpp.i
 
 ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AbaveAverage.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/AbaveAverage/main.cpp -o CMakeFiles/AbaveAverage.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverage/main.cpp -o CMakeFiles/AbaveAverage.dir/main.cpp.s
 
 # Object files for target AbaveAverage
 AbaveAverage_OBJECTS = \
@@ -80,8 +80,8 @@ AbaveAverage_EXTERNAL_OBJECTS =
 ArrayVectors/AbaveAverage/AbaveAverage: ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/main.cpp.o
 ArrayVectors/AbaveAverage/AbaveAverage: ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/build.make
 ArrayVectors/AbaveAverage/AbaveAverage: ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable AbaveAverage"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AbaveAverage.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable AbaveAverage"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AbaveAverage.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/build: ArrayVectors/AbaveAverage/AbaveAverage
@@ -89,10 +89,10 @@ ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/build: ArrayVectors/AbaveA
 .PHONY : ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/build
 
 ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && $(CMAKE_COMMAND) -P CMakeFiles/AbaveAverage.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage && $(CMAKE_COMMAND) -P CMakeFiles/AbaveAverage.dir/cmake_clean.cmake
 .PHONY : ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/clean
 
 ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/AbaveAverage /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverage /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/depend
 

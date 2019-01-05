@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/depend.make
@@ -59,16 +59,16 @@ include Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFil
 
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.o: Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/flags.make
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.o: ../Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/main.cpp
 
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/main.cpp > CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/main.cpp > CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.i
 
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/main.cpp -o CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/main.cpp -o CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.s
 
 # Object files for target 02.Non-Terminated-C-Strings
 02_Non__Terminated__C__Strings_OBJECTS = \
@@ -80,8 +80,8 @@ Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.No
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/02.Non-Terminated-C-Strings: Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.o
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/02.Non-Terminated-C-Strings: Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/build.make
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/02.Non-Terminated-C-Strings: Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 02.Non-Terminated-C-Strings"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/02.Non-Terminated-C-Strings.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 02.Non-Terminated-C-Strings"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/02.Non-Terminated-C-Strings.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/build: Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/02.Non-Terminated-C-Strings
@@ -89,10 +89,10 @@ Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.No
 .PHONY : Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/build
 
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && $(CMAKE_COMMAND) -P CMakeFiles/02.Non-Terminated-C-Strings.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings && $(CMAKE_COMMAND) -P CMakeFiles/02.Non-Terminated-C-Strings.dir/cmake_clean.cmake
 .PHONY : Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/clean
 
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/depend
 

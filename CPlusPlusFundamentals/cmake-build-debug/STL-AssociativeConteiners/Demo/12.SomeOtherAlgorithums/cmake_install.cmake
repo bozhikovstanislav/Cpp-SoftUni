@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

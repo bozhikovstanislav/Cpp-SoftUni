@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/depend.make
@@ -59,16 +59,16 @@ include LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_
 
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o: LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/flags.make
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o: ../LinearyConteners/Homework/01.Find-EVENS-in-DualArray/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/main.cpp
 
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/main.cpp > CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/main.cpp > CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.i
 
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/main.cpp -o CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/main.cpp -o CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.s
 
 # Object files for target 01_Find_EVENS_in_DualArray
 01_Find_EVENS_in_DualArray_OBJECTS = \
@@ -80,8 +80,8 @@ LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/01_Find_EVENS_in_DualArray: LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/01_Find_EVENS_in_DualArray: LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/build.make
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/01_Find_EVENS_in_DualArray: LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 01_Find_EVENS_in_DualArray"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/01_Find_EVENS_in_DualArray.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 01_Find_EVENS_in_DualArray"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/01_Find_EVENS_in_DualArray.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/build: LinearyConteners/Homework/01.Find-EVENS-in-DualArray/01_Find_EVENS_in_DualArray
@@ -89,10 +89,10 @@ LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in
 .PHONY : LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/build
 
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && $(CMAKE_COMMAND) -P CMakeFiles/01_Find_EVENS_in_DualArray.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray && $(CMAKE_COMMAND) -P CMakeFiles/01_Find_EVENS_in_DualArray.dir/cmake_clean.cmake
 .PHONY : LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/clean
 
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/depend
 

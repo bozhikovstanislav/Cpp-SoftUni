@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/02.StdMap/02.std-map.cpp" "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/02.StdMap.dir/02.std-map.cpp.o"
+  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/02.StdMap/02.std-map.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/02.StdMap.dir/02.std-map.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

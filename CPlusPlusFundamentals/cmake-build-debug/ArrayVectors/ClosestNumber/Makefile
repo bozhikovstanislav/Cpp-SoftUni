@@ -48,10 +48,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/ClosestNumber/CMakeFiles/progress.marks
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles 0
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/ArrayVectors/ClosestNumber/CMakeFiles/progress.marks
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/clean
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,22 +97,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/preinstall
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/preinstall
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/rule:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/rule
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/rule
 .PHONY : ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/rule
 
 # Convenience name for target.
@@ -122,7 +122,7 @@ ClosestNumber: ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/rule
 
 # fast build rule for target.
 ClosestNumber/fast:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build.make ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build.make ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build
 .PHONY : ClosestNumber/fast
 
 main.o: main.cpp.o
@@ -131,7 +131,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build.make ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/main.cpp.o
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build.make ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -140,7 +140,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build.make ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build.make ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -149,7 +149,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build.make ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/build.make ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -175,6 +175,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include Intro/SignProduct/CMakeFiles/SignProduct.dir/depend.make
@@ -59,16 +59,16 @@ include Intro/SignProduct/CMakeFiles/SignProduct.dir/flags.make
 
 Intro/SignProduct/CMakeFiles/SignProduct.dir/main.cpp.o: Intro/SignProduct/CMakeFiles/SignProduct.dir/flags.make
 Intro/SignProduct/CMakeFiles/SignProduct.dir/main.cpp.o: ../Intro/SignProduct/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Intro/SignProduct/CMakeFiles/SignProduct.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SignProduct.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/SignProduct/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Intro/SignProduct/CMakeFiles/SignProduct.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SignProduct.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/SignProduct/main.cpp
 
 Intro/SignProduct/CMakeFiles/SignProduct.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SignProduct.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/SignProduct/main.cpp > CMakeFiles/SignProduct.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/SignProduct/main.cpp > CMakeFiles/SignProduct.dir/main.cpp.i
 
 Intro/SignProduct/CMakeFiles/SignProduct.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SignProduct.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/SignProduct/main.cpp -o CMakeFiles/SignProduct.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/SignProduct/main.cpp -o CMakeFiles/SignProduct.dir/main.cpp.s
 
 # Object files for target SignProduct
 SignProduct_OBJECTS = \
@@ -80,8 +80,8 @@ SignProduct_EXTERNAL_OBJECTS =
 Intro/SignProduct/SignProduct: Intro/SignProduct/CMakeFiles/SignProduct.dir/main.cpp.o
 Intro/SignProduct/SignProduct: Intro/SignProduct/CMakeFiles/SignProduct.dir/build.make
 Intro/SignProduct/SignProduct: Intro/SignProduct/CMakeFiles/SignProduct.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable SignProduct"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SignProduct.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable SignProduct"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SignProduct.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 Intro/SignProduct/CMakeFiles/SignProduct.dir/build: Intro/SignProduct/SignProduct
@@ -89,10 +89,10 @@ Intro/SignProduct/CMakeFiles/SignProduct.dir/build: Intro/SignProduct/SignProduc
 .PHONY : Intro/SignProduct/CMakeFiles/SignProduct.dir/build
 
 Intro/SignProduct/CMakeFiles/SignProduct.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && $(CMAKE_COMMAND) -P CMakeFiles/SignProduct.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct && $(CMAKE_COMMAND) -P CMakeFiles/SignProduct.dir/cmake_clean.cmake
 .PHONY : Intro/SignProduct/CMakeFiles/SignProduct.dir/clean
 
 Intro/SignProduct/CMakeFiles/SignProduct.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/SignProduct /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct/CMakeFiles/SignProduct.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/SignProduct /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/SignProduct/CMakeFiles/SignProduct.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : Intro/SignProduct/CMakeFiles/SignProduct.dir/depend
 

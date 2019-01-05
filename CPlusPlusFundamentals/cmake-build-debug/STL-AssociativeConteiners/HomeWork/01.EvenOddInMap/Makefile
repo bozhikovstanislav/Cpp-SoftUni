@@ -48,10 +48,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/progress.marks
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles 0
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/progress.marks
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/clean
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,22 +97,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/preinstall
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/preinstall
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/rule:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/rule
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/rule
 .PHONY : STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/rule
 
 # Convenience name for target.
@@ -122,7 +122,7 @@ STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.di
 
 # fast build rule for target.
 01_EvenOddInMap/fast:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build
 .PHONY : 01_EvenOddInMap/fast
 
 01.EvenOddinMap.o: 01.EvenOddinMap.cpp.o
@@ -131,7 +131,7 @@ STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.di
 
 # target to build an object file
 01.EvenOddinMap.cpp.o:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/01.EvenOddinMap.cpp.o
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/01.EvenOddinMap.cpp.o
 .PHONY : 01.EvenOddinMap.cpp.o
 
 01.EvenOddinMap.i: 01.EvenOddinMap.cpp.i
@@ -140,7 +140,7 @@ STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.di
 
 # target to preprocess a source file
 01.EvenOddinMap.cpp.i:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/01.EvenOddinMap.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/01.EvenOddinMap.cpp.i
 .PHONY : 01.EvenOddinMap.cpp.i
 
 01.EvenOddinMap.s: 01.EvenOddinMap.cpp.s
@@ -149,7 +149,7 @@ STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.di
 
 # target to generate assembly for a file
 01.EvenOddinMap.cpp.s:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/01.EvenOddinMap.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/01.EvenOddinMap.cpp.s
 .PHONY : 01.EvenOddinMap.cpp.s
 
 # Help Target
@@ -175,6 +175,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

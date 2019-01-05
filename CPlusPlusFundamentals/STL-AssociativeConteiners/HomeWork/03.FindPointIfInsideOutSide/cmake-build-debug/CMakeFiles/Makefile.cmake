@@ -7,10 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "../CMakeLists.txt"
-  "CMakeFiles/3.13.2/CMakeCCompiler.cmake"
-  "CMakeFiles/3.13.2/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.13.2/CMakeSystem.cmake"
   "/home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCInformation.cmake"
   "/home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCXXInformation.cmake"
   "/home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake"
@@ -31,6 +27,10 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/share/cmake-3.13/Modules/Platform/Linux.cmake"
   "/home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/share/cmake-3.13/Modules/Platform/UnixPaths.cmake"
   "/home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/share/cmake-3.13/Modules/ProcessorCount.cmake"
+  "../CMakeLists.txt"
+  "CMakeFiles/3.13.2/CMakeCCompiler.cmake"
+  "CMakeFiles/3.13.2/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.13.2/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:
@@ -46,5 +46,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/03_FindPointIfInsideOutSide.dir/DependInfo.cmake"
+  "CMakeFiles/03.FindPointIfInsideOutSide.dir/DependInfo.cmake"
   )

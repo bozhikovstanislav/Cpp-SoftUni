@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/03_FindPointIfInsideOutSide.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/03_FindPointIfInsideOutSide.dir/flags.make
 
 CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o: CMakeFiles/03_FindPointIfInsideOutSide.dir/flags.make
 CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o: ../03.FindePointInsideOutSide.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp
 
 CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp > CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp > CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.i
 
 CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp -o CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp -o CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.s
 
 # Object files for target 03_FindPointIfInsideOutSide
 03_FindPointIfInsideOutSide_OBJECTS = \
@@ -80,7 +80,7 @@ CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.s: cma
 03_FindPointIfInsideOutSide: CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o
 03_FindPointIfInsideOutSide: CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make
 03_FindPointIfInsideOutSide: CMakeFiles/03_FindPointIfInsideOutSide.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 03_FindPointIfInsideOutSide"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 03_FindPointIfInsideOutSide"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/03_FindPointIfInsideOutSide.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/03_FindPointIfInsideOutSide.dir/clean:
 .PHONY : CMakeFiles/03_FindPointIfInsideOutSide.dir/clean
 
 CMakeFiles/03_FindPointIfInsideOutSide.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/03_FindPointIfInsideOutSide.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/03_FindPointIfInsideOutSide.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/03_FindPointIfInsideOutSide.dir/depend
 

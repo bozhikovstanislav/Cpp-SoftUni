@@ -48,10 +48,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -930,17 +930,17 @@ Exarsise_Strings_Stream_LTC/fast:
 .PHONY : 02_FilterByNameorAge/fast
 
 #=============================================================================
-# Target rules for targets named 03_FindPointIfInsideOutSide
+# Target rules for targets named 03.FindPointIfInsideOutSide
 
 # Build rule for target.
-03_FindPointIfInsideOutSide: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 03_FindPointIfInsideOutSide
-.PHONY : 03_FindPointIfInsideOutSide
+03.FindPointIfInsideOutSide: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 03.FindPointIfInsideOutSide
+.PHONY : 03.FindPointIfInsideOutSide
 
 # fast build rule for target.
-03_FindPointIfInsideOutSide/fast:
-	$(MAKE) -f STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/03_FindPointIfInsideOutSide.dir/build
-.PHONY : 03_FindPointIfInsideOutSide/fast
+03.FindPointIfInsideOutSide/fast:
+	$(MAKE) -f STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/03.FindPointIfInsideOutSide.dir/build.make STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/03.FindPointIfInsideOutSide.dir/build
+.PHONY : 03.FindPointIfInsideOutSide/fast
 
 #=============================================================================
 # Target rules for targets named 04_CarProgram
@@ -1066,7 +1066,7 @@ help:
 	@echo "... 12.SomeOtherAlgorithums"
 	@echo "... 01_EvenOddInMap"
 	@echo "... 02_FilterByNameorAge"
-	@echo "... 03_FindPointIfInsideOutSide"
+	@echo "... 03.FindPointIfInsideOutSide"
 	@echo "... 04_CarProgram"
 	@echo "... Library"
 	@echo "... main.o"

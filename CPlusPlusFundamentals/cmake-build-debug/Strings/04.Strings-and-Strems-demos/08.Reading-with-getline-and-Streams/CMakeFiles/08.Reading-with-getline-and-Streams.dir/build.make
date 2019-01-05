@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/depend.make
@@ -59,16 +59,16 @@ include Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/
 
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.o: Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/flags.make
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.o: ../Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/main.cpp
 
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/main.cpp > CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/main.cpp > CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.i
 
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/main.cpp -o CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/main.cpp -o CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.s
 
 # Object files for target 08.Reading-with-getline-and-Streams
 08_Reading__with__getline__and__Streams_OBJECTS = \
@@ -80,8 +80,8 @@ Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFil
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/08.Reading-with-getline-and-Streams: Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/main.cpp.o
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/08.Reading-with-getline-and-Streams: Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/build.make
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/08.Reading-with-getline-and-Streams: Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 08.Reading-with-getline-and-Streams"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/08.Reading-with-getline-and-Streams.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 08.Reading-with-getline-and-Streams"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/08.Reading-with-getline-and-Streams.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/build: Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/08.Reading-with-getline-and-Streams
@@ -89,10 +89,10 @@ Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFil
 .PHONY : Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/build
 
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && $(CMAKE_COMMAND) -P CMakeFiles/08.Reading-with-getline-and-Streams.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams && $(CMAKE_COMMAND) -P CMakeFiles/08.Reading-with-getline-and-Streams.dir/cmake_clean.cmake
 .PHONY : Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/clean
 
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/depend
 

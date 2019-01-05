@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

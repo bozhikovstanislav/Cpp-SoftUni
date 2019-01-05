@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

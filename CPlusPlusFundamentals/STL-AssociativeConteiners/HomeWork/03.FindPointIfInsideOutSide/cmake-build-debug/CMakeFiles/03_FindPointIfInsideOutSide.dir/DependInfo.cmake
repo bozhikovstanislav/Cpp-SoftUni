@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp" "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o"
+  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

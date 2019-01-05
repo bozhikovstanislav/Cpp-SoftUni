@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/depend.make
@@ -59,16 +59,16 @@ include LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containe
 
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.o: LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/flags.make
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.o: ../LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/main.cpp
 
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/main.cpp > CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/main.cpp > CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.i
 
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/main.cpp -o CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/main.cpp -o CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.s
 
 # Object files for target 03_Multidimensional_Containers
 03_Multidimensional_Containers_OBJECTS = \
@@ -80,8 +80,8 @@ LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMake
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/03_Multidimensional_Containers: LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/main.cpp.o
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/03_Multidimensional_Containers: LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/build.make
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/03_Multidimensional_Containers: LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 03_Multidimensional_Containers"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/03_Multidimensional_Containers.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 03_Multidimensional_Containers"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/03_Multidimensional_Containers.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/build: LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/03_Multidimensional_Containers
@@ -89,10 +89,10 @@ LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMake
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/build
 
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && $(CMAKE_COMMAND) -P CMakeFiles/03_Multidimensional_Containers.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers && $(CMAKE_COMMAND) -P CMakeFiles/03_Multidimensional_Containers.dir/cmake_clean.cmake
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/clean
 
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/depend
 

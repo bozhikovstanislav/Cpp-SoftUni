@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/Quadratic
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

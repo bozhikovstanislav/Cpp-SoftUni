@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

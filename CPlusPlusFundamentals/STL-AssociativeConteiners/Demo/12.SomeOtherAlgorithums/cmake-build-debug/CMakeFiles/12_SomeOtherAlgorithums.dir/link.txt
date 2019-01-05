@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/12_SomeOtherAlgorithums.dir/main.cpp.o  -o 12_SomeOtherAlgorithums 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/main.cpp" "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/06.std-string-Substring-Erase-Replace.dir/main.cpp.o"
+  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/main.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/06.std-string-Substring-Erase-Replace.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

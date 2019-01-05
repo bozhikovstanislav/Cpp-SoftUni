@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/ArrayVectors/AbaveAverageVector
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverageVector
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

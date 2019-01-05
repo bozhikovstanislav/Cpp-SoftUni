@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include Intro/Quadratic/CMakeFiles/Quadratic.dir/depend.make
@@ -59,16 +59,16 @@ include Intro/Quadratic/CMakeFiles/Quadratic.dir/flags.make
 
 Intro/Quadratic/CMakeFiles/Quadratic.dir/main.cpp.o: Intro/Quadratic/CMakeFiles/Quadratic.dir/flags.make
 Intro/Quadratic/CMakeFiles/Quadratic.dir/main.cpp.o: ../Intro/Quadratic/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Intro/Quadratic/CMakeFiles/Quadratic.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Quadratic.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/Quadratic/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Intro/Quadratic/CMakeFiles/Quadratic.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Quadratic.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic/main.cpp
 
 Intro/Quadratic/CMakeFiles/Quadratic.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Quadratic.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/Quadratic/main.cpp > CMakeFiles/Quadratic.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic/main.cpp > CMakeFiles/Quadratic.dir/main.cpp.i
 
 Intro/Quadratic/CMakeFiles/Quadratic.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Quadratic.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/Quadratic/main.cpp -o CMakeFiles/Quadratic.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic/main.cpp -o CMakeFiles/Quadratic.dir/main.cpp.s
 
 # Object files for target Quadratic
 Quadratic_OBJECTS = \
@@ -80,8 +80,8 @@ Quadratic_EXTERNAL_OBJECTS =
 Intro/Quadratic/Quadratic: Intro/Quadratic/CMakeFiles/Quadratic.dir/main.cpp.o
 Intro/Quadratic/Quadratic: Intro/Quadratic/CMakeFiles/Quadratic.dir/build.make
 Intro/Quadratic/Quadratic: Intro/Quadratic/CMakeFiles/Quadratic.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Quadratic"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Quadratic.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Quadratic"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Quadratic.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 Intro/Quadratic/CMakeFiles/Quadratic.dir/build: Intro/Quadratic/Quadratic
@@ -89,10 +89,10 @@ Intro/Quadratic/CMakeFiles/Quadratic.dir/build: Intro/Quadratic/Quadratic
 .PHONY : Intro/Quadratic/CMakeFiles/Quadratic.dir/build
 
 Intro/Quadratic/CMakeFiles/Quadratic.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && $(CMAKE_COMMAND) -P CMakeFiles/Quadratic.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic && $(CMAKE_COMMAND) -P CMakeFiles/Quadratic.dir/cmake_clean.cmake
 .PHONY : Intro/Quadratic/CMakeFiles/Quadratic.dir/clean
 
 Intro/Quadratic/CMakeFiles/Quadratic.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/Quadratic /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic/CMakeFiles/Quadratic.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Intro/Quadratic/CMakeFiles/Quadratic.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : Intro/Quadratic/CMakeFiles/Quadratic.dir/depend
 

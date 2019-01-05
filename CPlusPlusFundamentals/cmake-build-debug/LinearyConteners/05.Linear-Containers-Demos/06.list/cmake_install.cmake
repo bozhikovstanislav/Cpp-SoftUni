@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

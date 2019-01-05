@@ -59,45 +59,45 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/03_FindPointIfInsideOutSide.dir
+# Target rules for target CMakeFiles/03.FindPointIfInsideOutSide.dir
 
 # All Build rule for target.
-CMakeFiles/03_FindPointIfInsideOutSide.dir/all:
-	$(MAKE) -f CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make CMakeFiles/03_FindPointIfInsideOutSide.dir/depend
-	$(MAKE) -f CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make CMakeFiles/03_FindPointIfInsideOutSide.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 03_FindPointIfInsideOutSide"
-.PHONY : CMakeFiles/03_FindPointIfInsideOutSide.dir/all
+CMakeFiles/03.FindPointIfInsideOutSide.dir/all:
+	$(MAKE) -f CMakeFiles/03.FindPointIfInsideOutSide.dir/build.make CMakeFiles/03.FindPointIfInsideOutSide.dir/depend
+	$(MAKE) -f CMakeFiles/03.FindPointIfInsideOutSide.dir/build.make CMakeFiles/03.FindPointIfInsideOutSide.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 03.FindPointIfInsideOutSide"
+.PHONY : CMakeFiles/03.FindPointIfInsideOutSide.dir/all
 
 # Include target in all.
-all: CMakeFiles/03_FindPointIfInsideOutSide.dir/all
+all: CMakeFiles/03.FindPointIfInsideOutSide.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/03_FindPointIfInsideOutSide.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/03_FindPointIfInsideOutSide.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/03_FindPointIfInsideOutSide.dir/rule
+CMakeFiles/03.FindPointIfInsideOutSide.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/03.FindPointIfInsideOutSide.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/03.FindPointIfInsideOutSide.dir/rule
 
 # Convenience name for target.
-03_FindPointIfInsideOutSide: CMakeFiles/03_FindPointIfInsideOutSide.dir/rule
+03.FindPointIfInsideOutSide: CMakeFiles/03.FindPointIfInsideOutSide.dir/rule
 
-.PHONY : 03_FindPointIfInsideOutSide
-
-# clean rule for target.
-CMakeFiles/03_FindPointIfInsideOutSide.dir/clean:
-	$(MAKE) -f CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make CMakeFiles/03_FindPointIfInsideOutSide.dir/clean
-.PHONY : CMakeFiles/03_FindPointIfInsideOutSide.dir/clean
+.PHONY : 03.FindPointIfInsideOutSide
 
 # clean rule for target.
-clean: CMakeFiles/03_FindPointIfInsideOutSide.dir/clean
+CMakeFiles/03.FindPointIfInsideOutSide.dir/clean:
+	$(MAKE) -f CMakeFiles/03.FindPointIfInsideOutSide.dir/build.make CMakeFiles/03.FindPointIfInsideOutSide.dir/clean
+.PHONY : CMakeFiles/03.FindPointIfInsideOutSide.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/03.FindPointIfInsideOutSide.dir/clean
 
 .PHONY : clean
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/01.Multidimensional-Arrays/main.cpp" "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/01.Multidimensional-Arrays/CMakeFiles/01.Multidimensional-Array.dir/main.cpp.o"
+  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/01.Multidimensional-Arrays/main.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/01.Multidimensional-Arrays/CMakeFiles/01.Multidimensional-Array.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

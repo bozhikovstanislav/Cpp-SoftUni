@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Strings/HomeWork/05-SumOfNumbersInString
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/05-SumOfNumbersInString
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

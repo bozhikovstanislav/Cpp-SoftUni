@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/09.SprtingLinkedList.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/09.SprtingLinkedList.dir/flags.make
 
 CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.o: CMakeFiles/09.SprtingLinkedList.dir/flags.make
 CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.o: ../09.Sorting-Linked-Lists.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.Sorting-Linked-Lists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.Sorting-Linked-Lists.cpp
 
 CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.Sorting-Linked-Lists.cpp > CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.Sorting-Linked-Lists.cpp > CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.i
 
 CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.Sorting-Linked-Lists.cpp -o CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.Sorting-Linked-Lists.cpp -o CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.s
 
 # Object files for target 09.SprtingLinkedList
 09_SprtingLinkedList_OBJECTS = \
@@ -80,7 +80,7 @@ CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.s: cmake_force
 09.SprtingLinkedList: CMakeFiles/09.SprtingLinkedList.dir/09.Sorting-Linked-Lists.cpp.o
 09.SprtingLinkedList: CMakeFiles/09.SprtingLinkedList.dir/build.make
 09.SprtingLinkedList: CMakeFiles/09.SprtingLinkedList.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 09.SprtingLinkedList"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 09.SprtingLinkedList"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/09.SprtingLinkedList.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/09.SprtingLinkedList.dir/clean:
 .PHONY : CMakeFiles/09.SprtingLinkedList.dir/clean
 
 CMakeFiles/09.SprtingLinkedList.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug/CMakeFiles/09.SprtingLinkedList.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/cmake-build-debug/CMakeFiles/09.SprtingLinkedList.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/09.SprtingLinkedList.dir/depend
 

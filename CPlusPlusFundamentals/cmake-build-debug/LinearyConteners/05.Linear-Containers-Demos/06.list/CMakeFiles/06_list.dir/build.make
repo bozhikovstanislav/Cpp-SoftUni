@@ -43,10 +43,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/depend.make
@@ -59,16 +59,16 @@ include LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.d
 
 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/main.cpp.o: LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/flags.make
 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/main.cpp.o: ../LinearyConteners/05.Linear-Containers-Demos/06.list/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/main.cpp.o"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/06_list.dir/main.cpp.o -c /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/main.cpp.o"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/06_list.dir/main.cpp.o -c /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list/main.cpp
 
 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/06_list.dir/main.cpp.i"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list/main.cpp > CMakeFiles/06_list.dir/main.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list/main.cpp > CMakeFiles/06_list.dir/main.cpp.i
 
 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/06_list.dir/main.cpp.s"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list/main.cpp -o CMakeFiles/06_list.dir/main.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list/main.cpp -o CMakeFiles/06_list.dir/main.cpp.s
 
 # Object files for target 06_list
 06_list_OBJECTS = \
@@ -80,8 +80,8 @@ LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/main.
 LinearyConteners/05.Linear-Containers-Demos/06.list/06_list: LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/main.cpp.o
 LinearyConteners/05.Linear-Containers-Demos/06.list/06_list: LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/build.make
 LinearyConteners/05.Linear-Containers-Demos/06.list/06_list: LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 06_list"
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/06_list.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 06_list"
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/06_list.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/build: LinearyConteners/05.Linear-Containers-Demos/06.list/06_list
@@ -89,10 +89,10 @@ LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/build
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/build
 
 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && $(CMAKE_COMMAND) -P CMakeFiles/06_list.dir/cmake_clean.cmake
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list && $(CMAKE_COMMAND) -P CMakeFiles/06_list.dir/cmake_clean.cmake
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/clean
 
 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/depend
 

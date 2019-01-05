@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/08.Sorting-Array-Like-Containers.cpp" "/home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/cmake-build-debug/CMakeFiles/08.SortingArrayLikeConteiners.dir/08.Sorting-Array-Like-Containers.cpp.o"
+  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/08.Sorting-Array-Like-Containers.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/cmake-build-debug/CMakeFiles/08.SortingArrayLikeConteiners.dir/08.Sorting-Array-Like-Containers.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

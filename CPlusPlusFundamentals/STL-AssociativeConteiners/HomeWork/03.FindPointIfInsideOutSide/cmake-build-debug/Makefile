@@ -48,10 +48,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named 03_FindPointIfInsideOutSide
+# Target rules for targets named 03.FindPointIfInsideOutSide
 
 # Build rule for target.
-03_FindPointIfInsideOutSide: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 03_FindPointIfInsideOutSide
-.PHONY : 03_FindPointIfInsideOutSide
+03.FindPointIfInsideOutSide: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 03.FindPointIfInsideOutSide
+.PHONY : 03.FindPointIfInsideOutSide
 
 # fast build rule for target.
-03_FindPointIfInsideOutSide/fast:
-	$(MAKE) -f CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make CMakeFiles/03_FindPointIfInsideOutSide.dir/build
-.PHONY : 03_FindPointIfInsideOutSide/fast
+03.FindPointIfInsideOutSide/fast:
+	$(MAKE) -f CMakeFiles/03.FindPointIfInsideOutSide.dir/build.make CMakeFiles/03.FindPointIfInsideOutSide.dir/build
+.PHONY : 03.FindPointIfInsideOutSide/fast
 
 03.FindePointInsideOutSide.o: 03.FindePointInsideOutSide.cpp.o
 
@@ -129,7 +129,7 @@ depend:
 
 # target to build an object file
 03.FindePointInsideOutSide.cpp.o:
-	$(MAKE) -f CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o
+	$(MAKE) -f CMakeFiles/03.FindPointIfInsideOutSide.dir/build.make CMakeFiles/03.FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.o
 .PHONY : 03.FindePointInsideOutSide.cpp.o
 
 03.FindePointInsideOutSide.i: 03.FindePointInsideOutSide.cpp.i
@@ -138,7 +138,7 @@ depend:
 
 # target to preprocess a source file
 03.FindePointInsideOutSide.cpp.i:
-	$(MAKE) -f CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.i
+	$(MAKE) -f CMakeFiles/03.FindPointIfInsideOutSide.dir/build.make CMakeFiles/03.FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.i
 .PHONY : 03.FindePointInsideOutSide.cpp.i
 
 03.FindePointInsideOutSide.s: 03.FindePointInsideOutSide.cpp.s
@@ -147,7 +147,7 @@ depend:
 
 # target to generate assembly for a file
 03.FindePointInsideOutSide.cpp.s:
-	$(MAKE) -f CMakeFiles/03_FindPointIfInsideOutSide.dir/build.make CMakeFiles/03_FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.s
+	$(MAKE) -f CMakeFiles/03.FindPointIfInsideOutSide.dir/build.make CMakeFiles/03.FindPointIfInsideOutSide.dir/03.FindePointInsideOutSide.cpp.s
 .PHONY : 03.FindePointInsideOutSide.cpp.s
 
 # Help Target
@@ -157,7 +157,7 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... 03_FindPointIfInsideOutSide"
+	@echo "... 03.FindPointIfInsideOutSide"
 	@echo "... edit_cache"
 	@echo "... 03.FindePointInsideOutSide.o"
 	@echo "... 03.FindePointInsideOutSide.i"

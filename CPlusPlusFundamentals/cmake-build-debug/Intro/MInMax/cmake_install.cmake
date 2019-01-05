@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/Intro/MInMax
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/MInMax
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

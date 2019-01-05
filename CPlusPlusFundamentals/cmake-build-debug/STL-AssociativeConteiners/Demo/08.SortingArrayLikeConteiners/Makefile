@@ -48,10 +48,10 @@ RM = /home/stanislav/Documents/clion-2018.3.2/bin/cmake/linux/bin/cmake -E remov
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals
+CMAKE_SOURCE_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug
+CMAKE_BINARY_DIR = /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/progress.marks
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles 0
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/progress.marks
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/clean
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,22 +97,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/preinstall
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/preinstall
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/rule:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/rule
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/rule
 .PHONY : STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/rule
 
 # Convenience name for target.
@@ -122,7 +122,7 @@ STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.Sorti
 
 # fast build rule for target.
 08.SortingArrayLikeConteiners/fast:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build
 .PHONY : 08.SortingArrayLikeConteiners/fast
 
 08.Sorting-Array-Like-Containers.o: 08.Sorting-Array-Like-Containers.cpp.o
@@ -131,7 +131,7 @@ STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.Sorti
 
 # target to build an object file
 08.Sorting-Array-Like-Containers.cpp.o:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/08.Sorting-Array-Like-Containers.cpp.o
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/08.Sorting-Array-Like-Containers.cpp.o
 .PHONY : 08.Sorting-Array-Like-Containers.cpp.o
 
 08.Sorting-Array-Like-Containers.i: 08.Sorting-Array-Like-Containers.cpp.i
@@ -140,7 +140,7 @@ STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.Sorti
 
 # target to preprocess a source file
 08.Sorting-Array-Like-Containers.cpp.i:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/08.Sorting-Array-Like-Containers.cpp.i
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/08.Sorting-Array-Like-Containers.cpp.i
 .PHONY : 08.Sorting-Array-Like-Containers.cpp.i
 
 08.Sorting-Array-Like-Containers.s: 08.Sorting-Array-Like-Containers.cpp.s
@@ -149,7 +149,7 @@ STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.Sorti
 
 # target to generate assembly for a file
 08.Sorting-Array-Like-Containers.cpp.s:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/08.Sorting-Array-Like-Containers.cpp.s
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(MAKE) -f STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/08.Sorting-Array-Like-Containers.cpp.s
 .PHONY : 08.Sorting-Array-Like-Containers.cpp.s
 
 # Help Target
@@ -175,6 +175,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

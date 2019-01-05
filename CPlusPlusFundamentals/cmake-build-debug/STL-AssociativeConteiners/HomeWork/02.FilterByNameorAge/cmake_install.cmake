@@ -1,4 +1,4 @@
-# Install script for directory: /home/stanislav/Documents/CLionProjects/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge
+# Install script for directory: /home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
