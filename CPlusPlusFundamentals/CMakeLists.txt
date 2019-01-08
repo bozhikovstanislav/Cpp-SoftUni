@@ -74,7 +74,10 @@ add_subdirectory(STL-AssociativeConteiners/HomeWork/04.CarProgram)
 
 
 add_subdirectory(Class-Structurse/03.DateTime)
-
+add_subdirectory(Class-Structurse/01.EclipseDistance)
+add_subdirectory(Class-Structurse/02.AreaPerimOfRectangle)
+add_subdirectory(Class-Structurse/04.StudentsInfo)
+add_subdirectory(Class-Structurse/05.TotalAverageOfStudent)
 add_subdirectory(Library)
 
 

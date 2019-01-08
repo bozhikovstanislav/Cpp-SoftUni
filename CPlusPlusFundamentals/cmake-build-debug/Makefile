@@ -969,6 +969,58 @@ Exarsise_Strings_Stream_LTC/fast:
 .PHONY : 03_DateTime/fast
 
 #=============================================================================
+# Target rules for targets named 01_EclipseDistance
+
+# Build rule for target.
+01_EclipseDistance: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 01_EclipseDistance
+.PHONY : 01_EclipseDistance
+
+# fast build rule for target.
+01_EclipseDistance/fast:
+	$(MAKE) -f Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/build.make Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/build
+.PHONY : 01_EclipseDistance/fast
+
+#=============================================================================
+# Target rules for targets named 02_AreaPerimOfRectangle
+
+# Build rule for target.
+02_AreaPerimOfRectangle: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 02_AreaPerimOfRectangle
+.PHONY : 02_AreaPerimOfRectangle
+
+# fast build rule for target.
+02_AreaPerimOfRectangle/fast:
+	$(MAKE) -f Class-Structurse/02.AreaPerimOfRectangle/CMakeFiles/02_AreaPerimOfRectangle.dir/build.make Class-Structurse/02.AreaPerimOfRectangle/CMakeFiles/02_AreaPerimOfRectangle.dir/build
+.PHONY : 02_AreaPerimOfRectangle/fast
+
+#=============================================================================
+# Target rules for targets named 04_StudentsInfo
+
+# Build rule for target.
+04_StudentsInfo: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 04_StudentsInfo
+.PHONY : 04_StudentsInfo
+
+# fast build rule for target.
+04_StudentsInfo/fast:
+	$(MAKE) -f Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/build.make Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/build
+.PHONY : 04_StudentsInfo/fast
+
+#=============================================================================
+# Target rules for targets named 05_TotalAverageOfStudent
+
+# Build rule for target.
+05_TotalAverageOfStudent: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 05_TotalAverageOfStudent
+.PHONY : 05_TotalAverageOfStudent
+
+# fast build rule for target.
+05_TotalAverageOfStudent/fast:
+	$(MAKE) -f Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/05_TotalAverageOfStudent.dir/build.make Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/05_TotalAverageOfStudent.dir/build
+.PHONY : 05_TotalAverageOfStudent/fast
+
+#=============================================================================
 # Target rules for targets named Library
 
 # Build rule for target.
@@ -1082,6 +1134,10 @@ help:
 	@echo "... 03.FindPointIfInsideOutSide"
 	@echo "... 04_CarProgram"
 	@echo "... 03_DateTime"
+	@echo "... 01_EclipseDistance"
+	@echo "... 02_AreaPerimOfRectangle"
+	@echo "... 04_StudentsInfo"
+	@echo "... 05_TotalAverageOfStudent"
 	@echo "... Library"
 	@echo "... main.o"
 	@echo "... main.i"

@@ -36,7 +36,11 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../ArrayVectors/LongestSequance/CMakeLists.txt"
   "../ArrayVectors/MOsteFrecuantNumber/CMakeLists.txt"
   "../CMakeLists.txt"
+  "../Class-Structurse/01.EclipseDistance/CMakeLists.txt"
+  "../Class-Structurse/02.AreaPerimOfRectangle/CMakeLists.txt"
   "../Class-Structurse/03.DateTime/CMakeLists.txt"
+  "../Class-Structurse/04.StudentsInfo/CMakeLists.txt"
+  "../Class-Structurse/05.TotalAverageOfStudent/CMakeLists.txt"
   "../Exarsise-Strings-Stream-LTC/01.ReverseWord/CMakeLists.txt"
   "../Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeLists.txt"
   "../Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeLists.txt"
@@ -173,6 +177,10 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/CMakeDirectoryInformation.cmake"
   "STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/CMakeDirectoryInformation.cmake"
   "Class-Structurse/03.DateTime/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "Class-Structurse/01.EclipseDistance/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "Class-Structurse/02.AreaPerimOfRectangle/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "Class-Structurse/04.StudentsInfo/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/CMakeDirectoryInformation.cmake"
   "Library/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
@@ -244,5 +252,9 @@ set(CMAKE_DEPEND_INFO_FILES
   "STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/03.FindPointIfInsideOutSide.dir/DependInfo.cmake"
   "STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/04_CarProgram.dir/DependInfo.cmake"
   "Class-Structurse/03.DateTime/CMakeFiles/03_DateTime.dir/DependInfo.cmake"
+  "Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/DependInfo.cmake"
+  "Class-Structurse/02.AreaPerimOfRectangle/CMakeFiles/02_AreaPerimOfRectangle.dir/DependInfo.cmake"
+  "Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/DependInfo.cmake"
+  "Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/05_TotalAverageOfStudent.dir/DependInfo.cmake"
   "Library/CMakeFiles/Library.dir/DependInfo.cmake"
   )

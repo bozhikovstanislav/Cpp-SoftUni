@@ -45,6 +45,12 @@
 01.UseOfStdPair_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/01.UseOfStdPair
 
 //Value Computed by CMake
+01_EclipseDistance_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Class-Structurse/01.EclipseDistance
+
+//Value Computed by CMake
+01_EclipseDistance_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/01.EclipseDistance
+
+//Value Computed by CMake
 01_EvenOddInMap_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap
 
 //Value Computed by CMake
@@ -79,6 +85,12 @@
 
 //Value Computed by CMake
 02.StdMap_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/02.StdMap
+
+//Value Computed by CMake
+02_AreaPerimOfRectangle_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Class-Structurse/02.AreaPerimOfRectangle
+
+//Value Computed by CMake
+02_AreaPerimOfRectangle_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/02.AreaPerimOfRectangle
 
 //Value Computed by CMake
 02_EquaStrings_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/HomeWork/02-EquaStrings
@@ -189,6 +201,12 @@
 04_Sort_Number_in_Grate_Order_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order
 
 //Value Computed by CMake
+04_StudentsInfo_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Class-Structurse/04.StudentsInfo
+
+//Value Computed by CMake
+04_StudentsInfo_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/04.StudentsInfo
+
+//Value Computed by CMake
 04_vector_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/04.vector
 
 //Value Computed by CMake
@@ -217,6 +235,12 @@
 
 //Value Computed by CMake
 05_SumOfNumbersInString_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/05-SumOfNumbersInString
+
+//Value Computed by CMake
+05_TotalAverageOfStudent_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Class-Structurse/05.TotalAverageOfStudent
+
+//Value Computed by CMake
+05_TotalAverageOfStudent_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/05.TotalAverageOfStudent
 
 //Value Computed by CMake
 05_Using_Iterators_with_vector_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector
@@ -728,7 +752,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=67
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=71
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
