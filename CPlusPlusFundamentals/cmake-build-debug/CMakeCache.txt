@@ -141,6 +141,12 @@
 03_CommaReplacement_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/03-CommaReplacement
 
 //Value Computed by CMake
+03_DateTime_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Class-Structurse/03.DateTime
+
+//Value Computed by CMake
+03_DateTime_SOURCE_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/03.DateTime
+
+//Value Computed by CMake
 03_Find_Even_Numbers_in_Vectors_BINARY_DIR:STATIC=/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors
 
 //Value Computed by CMake
@@ -722,7 +728,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=66
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=67
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

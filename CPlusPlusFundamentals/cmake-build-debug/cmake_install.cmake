@@ -100,6 +100,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/cmake_install.cmake")
   include("/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/cmake_install.cmake")
   include("/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/cmake_install.cmake")
+  include("/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Class-Structurse/03.DateTime/cmake_install.cmake")
   include("/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Library/cmake_install.cmake")
 
 endif()

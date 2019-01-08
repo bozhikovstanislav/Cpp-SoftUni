@@ -956,6 +956,19 @@ Exarsise_Strings_Stream_LTC/fast:
 .PHONY : 04_CarProgram/fast
 
 #=============================================================================
+# Target rules for targets named 03_DateTime
+
+# Build rule for target.
+03_DateTime: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 03_DateTime
+.PHONY : 03_DateTime
+
+# fast build rule for target.
+03_DateTime/fast:
+	$(MAKE) -f Class-Structurse/03.DateTime/CMakeFiles/03_DateTime.dir/build.make Class-Structurse/03.DateTime/CMakeFiles/03_DateTime.dir/build
+.PHONY : 03_DateTime/fast
+
+#=============================================================================
 # Target rules for targets named Library
 
 # Build rule for target.
@@ -1068,6 +1081,7 @@ help:
 	@echo "... 02_FilterByNameorAge"
 	@echo "... 03.FindPointIfInsideOutSide"
 	@echo "... 04_CarProgram"
+	@echo "... 03_DateTime"
 	@echo "... Library"
 	@echo "... main.o"
 	@echo "... main.i"
