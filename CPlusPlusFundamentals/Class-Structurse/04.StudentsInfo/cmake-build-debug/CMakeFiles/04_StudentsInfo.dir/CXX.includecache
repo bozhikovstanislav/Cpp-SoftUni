@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/04.StudentsInfo/main.cpp
+iostream
+-
+

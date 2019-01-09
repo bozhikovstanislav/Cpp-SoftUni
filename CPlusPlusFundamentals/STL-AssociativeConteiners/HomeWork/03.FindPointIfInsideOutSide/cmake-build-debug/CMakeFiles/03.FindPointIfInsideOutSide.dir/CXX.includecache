@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/03.FindePointInsideOutSide.cpp
+iostream
+-
+utility
+-
+vector
+-
+algorithm
+-
+cmath
+-
+

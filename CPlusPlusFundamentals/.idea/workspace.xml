@@ -87,164 +87,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverage/AbaveAverage.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverage/AbaveAverage.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverage/CMakeFiles/AbaveAverage.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverage/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverage/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverageVector/AbaveAverageVector.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverageVector/AbaveAverageVector.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/Closessed/CMakeFiles/Closessed.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/Closessed/CMakeFiles/Closessed.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/Closessed/Closessed.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/Closessed/Closessed.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/ClosestNumber/CMakeFiles/ClosestNumber.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/ClosestNumber/ClosestNumber.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/ClosestNumber/ClosestNumber.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/CompareArray/CompareArray.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/CompareArray/CompareArray.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/CrtesianProduct/CrtesianProduct.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/CrtesianProduct/CrtesianProduct.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/LongestSequance/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/LongestSequance/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/LongestSequance/LongestSequance.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/LongestSequance/LongestSequance.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber/CMakeFiles/MOsteFrecuantNumber.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber/MOsteFrecuantNumber.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ArrayVectors/MOsteFrecuantNumber/MOsteFrecuantNumber.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/01.ReverseWord/01.ReverseWord.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/01.ReverseWord/01.ReverseWord.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/01.ReverseWord/CMakeFiles/01.ReverseWord.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/01.ReverseWord/CMakeFiles/01.ReverseWord.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/02.NumeralSystem/02.NumeralSystem.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/02.NumeralSystem/02.NumeralSystem.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/03.Minesweeper/03.Minesweeper.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/03.Minesweeper/03.Minesweeper.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeFiles/03.Minesweeper.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeFiles/03.Minesweeper.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/CMakeFiles/Exarsise_Strings_Stream_LTC.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/CMakeFiles/Exarsise_Strings_Stream_LTC.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/Exarsise_Strings_Stream_LTC.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Exarsise-Strings-Stream-LTC/Exarsise_Strings_Stream_LTC.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/GSD/CMakeFiles/GSD.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/GSD/CMakeFiles/GSD.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/GSD/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/GSD/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/GSD/GSD.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/GSD/GSD.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/MInMax/CMakeFiles/MInMax.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/MInMax/CMakeFiles/MInMax.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/MInMax/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/MInMax/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/MInMax/MInMax.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/MInMax/MInMax.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/NumberOrder/NumberOrder.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/NumberOrder/NumberOrder.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/OnToN/CMakeFiles/OnToN.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/OnToN/CMakeFiles/OnToN.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/OnToN/OnToN.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/OnToN/OnToN.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/Quadratic/Quadratic.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/Quadratic/Quadratic.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Intro/SignProduct/SignProduct.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Intro/SignProduct/SignProduct.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Library/CMakeFiles/Library.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Library/CMakeFiles/Library.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Library/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Library/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Library/Library.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Library/Library.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/01.Multidimensional-Arrays/01.Multidimensional-Array.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/01.Multidimensional-Arrays/01.Multidimensional-Array.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/02_Row_Major_Order_in_Multidimensional_Arrays.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/02_Row_Major_Order_in_Multidimensional_Arrays.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeFiles/02_Row_Major_Order_in_Multidimensional_Arrays.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeFiles/02_Row_Major_Order_in_Multidimensional_Arrays.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/03_Multidimensional_Containers.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/03_Multidimensional_Containers.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/04.vector/04_vector.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/04.vector/04_vector.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/04.vector/CMakeFiles/04_vector.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/04.vector/CMakeFiles/04_vector.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/05_Using_Iterators_with_vector.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/05_Using_Iterators_with_vector.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/05_Using_Iterators_with_vector.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/05_Using_Iterators_with_vector.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list/06_list.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list/06_list.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/07_Container_Adaptors.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/07_Container_Adaptors.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFiles/07_Container_Adaptors.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFiles/07_Container_Adaptors.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/08_Browser_History.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/08_Browser_History.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/08_Browser_History.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/08_Browser_History.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/01_Find_EVENS_in_DualArray.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/01_Find_EVENS_in_DualArray.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/02_Find_INDEX_in_DualArray.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/02_Find_INDEX_in_DualArray.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/CMakeFiles/02_Find_INDEX_in_DualArray.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/CMakeFiles/02_Find_INDEX_in_DualArray.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/03_Find_Even_Numbers_in_Vectors.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/03_Find_Even_Numbers_in_Vectors.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/CMakeFiles/03_Find_Even_Numbers_in_Vectors.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/CMakeFiles/03_Find_Even_Numbers_in_Vectors.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/04_Sort_Number_in_Grate_Order.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/04_Sort_Number_in_Grate_Order.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_Number_in_Grate_Order.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_Number_in_Grate_Order.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/05_Find_Sum_of_All_Numbers_in_Vector.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/05_Find_Sum_of_All_Numbers_in_Vector.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/01.UseOfStdPair/01.UseOfStdPair.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/01.UseOfStdPair/01.UseOfStdPair.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/02.StdMap/02.StdMap.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/02.StdMap/02.StdMap.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/02.StdMap.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/02.StdMap.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/03.MapIndexingOperator.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/03.MapIndexingOperator.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeFiles/03.MapIndexingOperator.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeFiles/03.MapIndexingOperator.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/04.StdSet/04.StdSet.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/04.StdSet/04.StdSet.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap/05.UnorederdMap.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap/05.UnorederdMap.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/06.UnorderedSet/06.UnorderedSet.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/06.UnorderedSet/06.UnorderedSet.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/07.MapOfVectors/07.MapOfVectors.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/07.MapOfVectors/07.MapOfVectors.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/08.SortingArrayLikeConteiners.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/08.SortingArrayLikeConteiners.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.SprtingLinkedList.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/09.SprtingLinkedList.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/CMakeFiles/09.SprtingLinkedList.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/CMakeFiles/09.SprtingLinkedList.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/10.SearchingAlgorithums.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/10.SearchingAlgorithums.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.SearchingAlgorithums.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.SearchingAlgorithums.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/11.SearchingRangeNotFoundPitfall.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/11.SearchingRangeNotFoundPitfall.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/CMakeFiles/11.SearchingRangeNotFoundPitfall.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/12.SomeOtherAlgorithums.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/12.SomeOtherAlgorithums.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/CMakeFiles/12.SomeOtherAlgorithums.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/CMakeFiles/12.SomeOtherAlgorithums.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/01_EvenOddInMap.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/01_EvenOddInMap.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/02_FilterByNameorAge.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/02_FilterByNameorAge.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeFiles/02_FilterByNameorAge.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeFiles/02_FilterByNameorAge.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/04_CarProgram.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/04_CarProgram.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/04_CarProgram.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/04_CarProgram.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SofUniSalution.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SofUniSalution.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/00.Array-example/00.Array-example.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/00.Array-example/00.Array-example.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/01.C-Strings-Basics/01.C-Strings-Basics.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/01.C-Strings-Basics/01.C-Strings-Basics.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/02.Non-Terminated-C-Strings.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/02.Non-Terminated-C-Strings.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/02a.C-stringsbuild-infunctions.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/02a.C-stringsbuild-infunctions.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeFiles/02a.C-stringsbuild-infunctions.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeFiles/02a.C-stringsbuild-infunctions.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/03.std-string-Basics/03.std-string-Basics.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/03.std-string-Basics/03.std-string-Basics.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/03.std-string-Basics/CMakeFiles/03.std-string-Basics.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/03.std-string-Basics/CMakeFiles/03.std-string-Basics.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/04.std-string-Comparison-and-Search.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/04.std-string-Comparison-and-Search.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeFiles/04.std-string-Comparison-and-Search.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeFiles/04.std-string-Comparison-and-Search.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/05.std-string-Find-Multiple-Occurrences.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/05.std-string-Find-Multiple-Occurrences.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/06.std-string-Substring-Erase-Replace.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/06.std-string-Substring-Erase-Replace.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/06.std-string-Substring-Erase-Replace.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/06.std-string-Substring-Erase-Replace.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/07.Using-std-stringstream.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/07.Using-std-stringstream.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07.Using-std-stringstream.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07.Using-std-stringstream.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/08.Reading-with-getline-and-Streams.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/08.Reading-with-getline-and-Streams.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/09.Parsing-Numbers-from-a-Line.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/09.Parsing-Numbers-from-a-Line.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFiles/09.Parsing-Numbers-from-a-Line.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFiles/09.Parsing-Numbers-from-a-Line.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/10.Reading-From-and-Writing-to-Files.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/10.Reading-From-and-Writing-to-Files.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/01-FilterStrings/01_FilterStrings.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/01-FilterStrings/01_FilterStrings.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/01-FilterStrings/CMakeFiles/01_FilterStrings.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/01-FilterStrings/CMakeFiles/01_FilterStrings.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/02-EquaStrings/02_EquaStrings.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/02-EquaStrings/02_EquaStrings.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/02-EquaStrings/CMakeFiles/02_EquaStrings.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/02-EquaStrings/CMakeFiles/02_EquaStrings.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/03-CommaReplacement/03_CommaReplacement.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/03-CommaReplacement/03_CommaReplacement.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/03-CommaReplacement/CMakeFiles/03_CommaReplacement.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/03-CommaReplacement/CMakeFiles/03_CommaReplacement.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/04-ReversString/04_ReversString.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/04-ReversString/04_ReversString.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/04-ReversString/CMakeFiles/04_ReversString.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/04-ReversString/CMakeFiles/04_ReversString.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/04-ReversString/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/04-ReversString/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/05-SumOfNumbersInString/05_SumOfNumbersInString.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/05-SumOfNumbersInString/05_SumOfNumbersInString.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -292,8 +134,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Class-Structurse/05.TotalAverageOfStudent/05.TotalAverage.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="19" lean-forward="true" selection-end-line="77" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="5" lean-forward="true" selection-end-line="75" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -301,8 +146,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class-Structurse/04.StudentsInfo/04.StudentInfo.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="46" lean-forward="true" selection-start-line="45" selection-end-line="64" selection-end-column="1" />
+            <state relative-caret-position="1353">
+              <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -900,7 +745,7 @@
       <workItem from="1546930878305" duration="4105000" />
       <workItem from="1546935580058" duration="3085000" />
       <workItem from="1546938690978" duration="2992000" />
-      <workItem from="1546941764419" duration="1305000" />
+      <workItem from="1546941764419" duration="2242000" />
     </task>
     <task id="LOCAL-00001" summary="i">
       <created>1545602986126</created>
@@ -965,28 +810,35 @@
       <option name="project" value="LOCAL" />
       <updated>1546921924358</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="AllTask Exept one &#10;&#10;Done">
+      <created>1546943206428</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1546943206428</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83998000" />
+    <option name="totallyTimeSpent" value="84935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="3" width="1922" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1339381" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1339381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33653846" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3985043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985043" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3102493" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.22970085" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32692307" />
@@ -1049,7 +901,8 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/bozhikovstanislav/CPlusPlusFundamentals&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml" />
     <MESSAGE value="Make some changes" />
     <MESSAGE value="3 Task 80/100" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 Task 80/100" />
+    <MESSAGE value="AllTask Exept one &#10;&#10;Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="AllTask Exept one &#10;&#10;Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1260,15 +1113,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Class-Structurse/04.StudentsInfo/04.StudentInfo.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="46" lean-forward="true" selection-start-line="45" selection-end-line="64" selection-end-column="1" />
+        <state relative-caret-position="1353">
+          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class-Structurse/05.TotalAverageOfStudent/05.TotalAverage.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="19" lean-forward="true" selection-end-line="77" selection-end-column="1" />
+        <state relative-caret-position="165">
+          <caret line="5" lean-forward="true" selection-end-line="75" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
