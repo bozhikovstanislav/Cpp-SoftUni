@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/01.EvenOddinMap.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/01_EvenOddInMap.dir/01.EvenOddinMap.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/01.EvenOddinMap.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/cmake-build-debug/CMakeFiles/01_EvenOddInMap.dir/01.EvenOddinMap.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/main.cpp" "/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/cmake-build-debug/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/main.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/cmake-build-debug/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

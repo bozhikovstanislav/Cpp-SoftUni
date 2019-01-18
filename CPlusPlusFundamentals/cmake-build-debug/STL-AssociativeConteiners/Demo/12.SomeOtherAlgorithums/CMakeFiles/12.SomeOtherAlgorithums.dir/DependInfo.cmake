@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/12.Some-Other-Algorithms.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/CMakeFiles/12.SomeOtherAlgorithums.dir/12.Some-Other-Algorithms.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/12.Some-Other-Algorithms.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/CMakeFiles/12.SomeOtherAlgorithums.dir/12.Some-Other-Algorithms.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

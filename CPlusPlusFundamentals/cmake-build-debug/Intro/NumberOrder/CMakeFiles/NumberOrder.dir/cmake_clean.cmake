@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/NumberOrder.dir/main.cpp.o"
+  "CMakeFiles/NumberOrder.dir/main.cpp.obj"
   "NumberOrder.pdb"
-  "NumberOrder"
+  "NumberOrder.exe"
+  "NumberOrder.exe.manifest"
+  "libNumberOrder.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Quadratic.dir/main.cpp.o"
+  "CMakeFiles/Quadratic.dir/main.cpp.obj"
   "Quadratic.pdb"
-  "Quadratic"
+  "Quadratic.exe"
+  "Quadratic.exe.manifest"
+  "libQuadratic.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

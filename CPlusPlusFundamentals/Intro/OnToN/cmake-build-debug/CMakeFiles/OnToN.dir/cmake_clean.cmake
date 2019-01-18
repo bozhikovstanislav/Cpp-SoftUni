@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/OnToN.dir/main.cpp.o"
+  "CMakeFiles/OnToN.dir/main.cpp.obj"
   "OnToN.pdb"
-  "OnToN"
+  "OnToN.exe"
+  "OnToN.exe.manifest"
+  "libOnToN.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

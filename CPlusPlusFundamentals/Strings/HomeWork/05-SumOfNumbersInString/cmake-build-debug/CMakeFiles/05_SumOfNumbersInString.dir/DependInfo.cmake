@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/CLionProjects/SofUniSalution/Day3/HomeWork/05-SumOfNumbersInString/main.cpp" "/home/stanislav/CLionProjects/SofUniSalution/Day3/HomeWork/05-SumOfNumbersInString/cmake-build-debug/CMakeFiles/05_SumOfNumbersInString.dir/main.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/05-SumOfNumbersInString/main.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/05-SumOfNumbersInString/cmake-build-debug/CMakeFiles/05_SumOfNumbersInString.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

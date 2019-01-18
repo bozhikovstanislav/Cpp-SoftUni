@@ -1,3 +1,3 @@
-/home/stanislav/CLionProjects/SofUniSalution/Day1/Quadratic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/stanislav/CLionProjects/SofUniSalution/Day1/Quadratic/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/stanislav/CLionProjects/SofUniSalution/Day1/Quadratic/cmake-build-debug/CMakeFiles/Quadratic.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic/cmake-build-debug/CMakeFiles/Quadratic.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,3 @@
-/usr/bin/c++  -g   CMakeFiles/AbaveAverageVector.dir/main.cpp.o  -o AbaveAverageVector 
+"E:\Program Files\JetBrains\CLion 2018.3.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\AbaveAverageVector.dir/objects.a
+"E:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe" cr CMakeFiles\AbaveAverageVector.dir/objects.a @CMakeFiles\AbaveAverageVector.dir\objects1.rsp
+"E:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\AbaveAverageVector.dir/objects.a -Wl,--no-whole-archive  -o AbaveAverageVector.exe -Wl,--out-implib,libAbaveAverageVector.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AbaveAverageVector.dir\linklibs.rsp

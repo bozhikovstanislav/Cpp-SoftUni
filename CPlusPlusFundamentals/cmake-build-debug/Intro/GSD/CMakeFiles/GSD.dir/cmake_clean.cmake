@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/GSD.dir/main.cpp.o"
+  "CMakeFiles/GSD.dir/main.cpp.obj"
   "GSD.pdb"
-  "GSD"
+  "GSD.exe"
+  "GSD.exe.manifest"
+  "libGSD.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

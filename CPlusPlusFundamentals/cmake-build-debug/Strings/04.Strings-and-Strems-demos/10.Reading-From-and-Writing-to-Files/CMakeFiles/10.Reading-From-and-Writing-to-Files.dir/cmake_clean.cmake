@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/main.cpp.o"
+  "CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/main.cpp.obj"
   "10.Reading-From-and-Writing-to-Files.pdb"
-  "10.Reading-From-and-Writing-to-Files"
+  "10.Reading-From-and-Writing-to-Files.exe"
+  "10.Reading-From-and-Writing-to-Files.exe.manifest"
+  "lib10.Reading-From-and-Writing-to-Files.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

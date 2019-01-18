@@ -8,276 +8,272 @@
 		<Option virtualFolders="CMake Files\;CMake Files\Strings\;CMake Files\Strings\04.Strings-and-Strems-demos\;CMake Files\Strings\04.Strings-and-Strems-demos\00.Array-example\;CMake Files\Strings\04.Strings-and-Strems-demos\01.C-Strings-Basics\;CMake Files\Strings\04.Strings-and-Strems-demos\02.Non-Terminated-C-Strings\;CMake Files\Strings\04.Strings-and-Strems-demos\02a.C-stringsbuild-infunctions\;CMake Files\Strings\04.Strings-and-Strems-demos\03.std-string-Basics\;CMake Files\Strings\04.Strings-and-Strems-demos\04.std-string-Comparison-and-Search\;CMake Files\Strings\04.Strings-and-Strems-demos\05.std-string-Find-Multiple-Occurrences\;CMake Files\Strings\04.Strings-and-Strems-demos\06.std-string-Substring-Erase-Replace\;CMake Files\Strings\04.Strings-and-Strems-demos\07.Using-std-stringstream\;CMake Files\Strings\04.Strings-and-Strems-demos\08.Reading-with-getline-and-Streams\;CMake Files\Strings\04.Strings-and-Strems-demos\09.Parsing-Numbers-from-a-Line\;CMake Files\Strings\04.Strings-and-Strems-demos\10.Reading-From-and-Writing-to-Files\;CMake Files\Strings\HomeWork\;CMake Files\Strings\HomeWork\01-FilterStrings\;CMake Files\Strings\HomeWork\02-EquaStrings\;CMake Files\Strings\HomeWork\03-CommaReplacement\;CMake Files\Strings\HomeWork\04-ReversString\;CMake Files\Strings\HomeWork\05-SumOfNumbersInString\;CMake Files\LinearyConteners\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\01.Multidimensional-Arrays\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\02.Row-Major-Order-in-Multidimensional-Arrays\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\03.Multidimensional-Containers\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\04.vector\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\05.Using-Iterators-with-vector\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\06.list\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\07.Container-Adaptors\;CMake Files\LinearyConteners\05.Linear-Containers-Demos\08.Browser-History\;CMake Files\LinearyConteners\Homework\;CMake Files\LinearyConteners\Homework\01.Find-EVENS-in-DualArray\;CMake Files\LinearyConteners\Homework\02.Find-INDEX-in-DualArray\;CMake Files\LinearyConteners\Homework\03.Find-Even-Numbers-in-Vectors\;CMake Files\LinearyConteners\Homework\04.Sort-Number-in-Grate-Order\;CMake Files\LinearyConteners\Homework\05.Find-Sum-of-All-Numbers-in-Vector\;CMake Files\Exarsise-Strings-Stream-LTC\;CMake Files\Exarsise-Strings-Stream-LTC\01.ReverseWord\;CMake Files\Exarsise-Strings-Stream-LTC\02.NumeralSystem\;CMake Files\Exarsise-Strings-Stream-LTC\03.Minesweeper\;CMake Files\STL-AssociativeConteiners\;CMake Files\STL-AssociativeConteiners\Demo\;CMake Files\STL-AssociativeConteiners\Demo\01.UseOfStdPair\;CMake Files\STL-AssociativeConteiners\Demo\02.StdMap\;CMake Files\STL-AssociativeConteiners\Demo\03.MapIndexingOperator\;CMake Files\STL-AssociativeConteiners\Demo\04.StdSet\;CMake Files\STL-AssociativeConteiners\Demo\05.UnorederdMap\;CMake Files\STL-AssociativeConteiners\Demo\06.UnorderedSet\;CMake Files\STL-AssociativeConteiners\Demo\07.MapOfVectors\;CMake Files\STL-AssociativeConteiners\Demo\08.SortingArrayLikeConteiners\;CMake Files\STL-AssociativeConteiners\Demo\09.SprtingLinkedList\;CMake Files\STL-AssociativeConteiners\Demo\10.SearchingAlgorithums\;CMake Files\STL-AssociativeConteiners\Demo\11.SearchingRangeNotFoundPitfall\;CMake Files\STL-AssociativeConteiners\Demo\12.SomeOtherAlgorithums\;CMake Files\STL-AssociativeConteiners\HomeWork\;CMake Files\STL-AssociativeConteiners\HomeWork\01.EvenOddInMap\;CMake Files\STL-AssociativeConteiners\HomeWork\02.FilterByNameorAge\;CMake Files\STL-AssociativeConteiners\HomeWork\03.FindPointIfInsideOutSide\;CMake Files\STL-AssociativeConteiners\HomeWork\04.CarProgram\;CMake Files\Class-Structurse\;CMake Files\Class-Structurse\01.EclipseDistance\;CMake Files\Class-Structurse\02.AreaPerimOfRectangle\;CMake Files\Class-Structurse\03.DateTime\;CMake Files\Class-Structurse\04.StudentsInfo\;CMake Files\Class-Structurse\05.TotalAverageOfStudent\;CMake Files\ArrayVectors\;CMake Files\ArrayVectors\AbaveAverage\;CMake Files\ArrayVectors\AbaveAverageVector\;CMake Files\ArrayVectors\Closessed\;CMake Files\ArrayVectors\ClosestNumber\;CMake Files\ArrayVectors\CompareArray\;CMake Files\ArrayVectors\CrtesianProduct\;CMake Files\ArrayVectors\LongestSequance\;CMake Files\ArrayVectors\MOsteFrecuantNumber\;CMake Files\Intro\;CMake Files\Intro\GSD\;CMake Files\Intro\MInMax\;CMake Files\Intro\NumberOrder\;CMake Files\Intro\OnToN\;CMake Files\Intro\Quadratic\;CMake Files\Intro\SignProduct\;CMake Files\Library\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray"/>
+				<Option working_dir="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="02_Find_INDEX_in_DualArray">
-				<Option output="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/02_Find_INDEX_in_DualArray" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray"/>
+				<Option output="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/02_Find_INDEX_in_DualArray.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/6"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
-					<Add directory="/usr/include/c++/6/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 02_Find_INDEX_in_DualArray"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 02_Find_INDEX_in_DualArray"/>
+					<CompileFile command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="02_Find_INDEX_in_DualArray/fast">
-				<Option output="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/02_Find_INDEX_in_DualArray" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray"/>
+				<Option output="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/02_Find_INDEX_in_DualArray.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/6"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
-					<Add directory="/usr/include/c++/6/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 02_Find_INDEX_in_DualArray/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 02_Find_INDEX_in_DualArray/fast"/>
+					<CompileFile command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/main.cpp">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/main.cpp">
 			<Option target="02_Find_INDEX_in_DualArray"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/00.Array-example/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/00.Array-example/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\00.Array-example\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/01.C-Strings-Basics/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/01.C-Strings-Basics/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\01.C-Strings-Basics\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\02.Non-Terminated-C-Strings\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\02a.C-stringsbuild-infunctions\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/03.std-string-Basics/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/03.std-string-Basics/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\03.std-string-Basics\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\04.std-string-Comparison-and-Search\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\05.std-string-Find-Multiple-Occurrences\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\06.std-string-Substring-Erase-Replace\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\07.Using-std-stringstream\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\08.Reading-with-getline-and-Streams\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\09.Parsing-Numbers-from-a-Line\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\04.Strings-and-Strems-demos\10.Reading-From-and-Writing-to-Files\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/01-FilterStrings/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/01-FilterStrings/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\HomeWork\01-FilterStrings\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/02-EquaStrings/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/02-EquaStrings/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\HomeWork\02-EquaStrings\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/03-CommaReplacement/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/03-CommaReplacement/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\HomeWork\03-CommaReplacement\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/04-ReversString/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/04-ReversString/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\HomeWork\04-ReversString\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/05-SumOfNumbersInString/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/HomeWork/05-SumOfNumbersInString/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Strings\HomeWork\05-SumOfNumbersInString\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/01.Multidimensional-Arrays/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/01.Multidimensional-Arrays/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\01.Multidimensional-Arrays\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\02.Row-Major-Order-in-Multidimensional-Arrays\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\03.Multidimensional-Containers\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/04.vector/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/04.vector/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\04.vector\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\05.Using-Iterators-with-vector\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\06.list\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\07.Container-Adaptors\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\05.Linear-Containers-Demos\08.Browser-History\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\Homework\01.Find-EVENS-in-DualArray\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/02.Find-INDEX-in-DualArray/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\Homework\02.Find-INDEX-in-DualArray\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\Homework\03.Find-Even-Numbers-in-Vectors\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\Homework\04.Sort-Number-in-Grate-Order\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\LinearyConteners\Homework\05.Find-Sum-of-All-Numbers-in-Vector\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Exarsise-Strings-Stream-LTC\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/01.ReverseWord/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/01.ReverseWord/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Exarsise-Strings-Stream-LTC\01.ReverseWord\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Exarsise-Strings-Stream-LTC\02.NumeralSystem\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Exarsise-Strings-Stream-LTC\03.Minesweeper\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/01.UseOfStdPair/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/01.UseOfStdPair/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\01.UseOfStdPair\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/02.StdMap/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/02.StdMap/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\02.StdMap\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\03.MapIndexingOperator\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/04.StdSet/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/04.StdSet/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\04.StdSet\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\05.UnorederdMap\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\06.UnorderedSet\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\07.MapOfVectors\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\08.SortingArrayLikeConteiners\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/09.SprtingLinkedList/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\09.SprtingLinkedList\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\10.SearchingAlgorithums\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/11.SearchingRangeNotFoundPitfall/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\11.SearchingRangeNotFoundPitfall\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/12.SomeOtherAlgorithums/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\Demo\12.SomeOtherAlgorithums\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\HomeWork\01.EvenOddInMap\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\HomeWork\02.FilterByNameorAge\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\HomeWork\03.FindPointIfInsideOutSide\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\STL-AssociativeConteiners\HomeWork\04.CarProgram\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/01.EclipseDistance/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/01.EclipseDistance/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Class-Structurse\01.EclipseDistance\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/02.AreaPerimOfRectangle/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/02.AreaPerimOfRectangle/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Class-Structurse\02.AreaPerimOfRectangle\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/03.DateTime/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/03.DateTime/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Class-Structurse\03.DateTime\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/04.StudentsInfo/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/04.StudentsInfo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Class-Structurse\04.StudentsInfo\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/05.TotalAverageOfStudent/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/05.TotalAverageOfStudent/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Class-Structurse\05.TotalAverageOfStudent\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverage/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverage/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\ArrayVectors\AbaveAverage\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverageVector/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverageVector/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\ArrayVectors\AbaveAverageVector\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/Closessed/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/Closessed/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\ArrayVectors\Closessed\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/ClosestNumber/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/ClosestNumber/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\ArrayVectors\ClosestNumber\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/CompareArray/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/CompareArray/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\ArrayVectors\CompareArray\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/CrtesianProduct/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/CrtesianProduct/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\ArrayVectors\CrtesianProduct\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/LongestSequance/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/LongestSequance/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\ArrayVectors\LongestSequance\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\ArrayVectors\MOsteFrecuantNumber\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/GSD/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Intro/GSD/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Intro\GSD\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/MInMax/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Intro/MInMax/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Intro\MInMax\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/NumberOrder/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Intro/NumberOrder/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Intro\NumberOrder\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/OnToN/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Intro/OnToN/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Intro\OnToN\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Intro/Quadratic/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Intro\Quadratic\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Intro/SignProduct/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Intro/SignProduct/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Intro\SignProduct\"/>
 		</Unit>
-		<Unit filename="/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Library/CMakeLists.txt">
+		<Unit filename="E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Library/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\Library\"/>
 		</Unit>
 	</Project>

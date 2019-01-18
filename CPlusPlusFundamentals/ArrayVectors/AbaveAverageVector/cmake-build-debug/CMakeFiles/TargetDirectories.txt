@@ -1,3 +1,3 @@
-/home/stanislav/Documents/CLionProjects/SofUniSalution/ArrayVectors/AbaveAverageVector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/stanislav/Documents/CLionProjects/SofUniSalution/ArrayVectors/AbaveAverageVector/cmake-build-debug/CMakeFiles/AbaveAverageVector.dir
-/home/stanislav/Documents/CLionProjects/SofUniSalution/ArrayVectors/AbaveAverageVector/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverageVector/cmake-build-debug/CMakeFiles/AbaveAverageVector.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverageVector/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/AbaveAverageVector/cmake-build-debug/CMakeFiles/rebuild_cache.dir

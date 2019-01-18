@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/CLionProjects/SofUniSalution/Day2/MOsteFrecuantNumber/main.cpp" "/home/stanislav/CLionProjects/SofUniSalution/Day2/MOsteFrecuantNumber/cmake-build-debug/CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/main.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/MOsteFrecuantNumber/cmake-build-debug/CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

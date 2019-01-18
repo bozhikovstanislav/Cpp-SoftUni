@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/05.TotalAverageOfStudent/main.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/05.TotalAverageOfStudent/cmake-build-debug/CMakeFiles/05_TotalAverageOfStudent.dir/main.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/05.TotalAverageOfStudent/05.TotalAverage.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/05.TotalAverageOfStudent/cmake-build-debug/CMakeFiles/05_TotalAverageOfStudent.dir/05.TotalAverage.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CrtesianProduct.dir/main.cpp.o"
+  "CMakeFiles/CrtesianProduct.dir/main.cpp.obj"
   "CrtesianProduct.pdb"
-  "CrtesianProduct"
+  "CrtesianProduct.exe"
+  "CrtesianProduct.exe.manifest"
+  "libCrtesianProduct.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

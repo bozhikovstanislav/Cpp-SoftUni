@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/main.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeFiles/04.std-string-Comparison-and-Search.dir/main.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/main.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeFiles/04.std-string-Comparison-and-Search.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

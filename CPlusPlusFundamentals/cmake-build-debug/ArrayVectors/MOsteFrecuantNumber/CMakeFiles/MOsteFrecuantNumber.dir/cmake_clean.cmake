@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o"
+  "CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.obj"
   "MOsteFrecuantNumber.pdb"
-  "MOsteFrecuantNumber"
+  "MOsteFrecuantNumber.exe"
+  "MOsteFrecuantNumber.exe.manifest"
+  "libMOsteFrecuantNumber.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

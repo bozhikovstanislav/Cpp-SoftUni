@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MInMax.dir/main.cpp.o"
+  "CMakeFiles/MInMax.dir/main.cpp.obj"
   "MInMax.pdb"
-  "MInMax"
+  "MInMax.exe"
+  "MInMax.exe.manifest"
+  "libMInMax.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

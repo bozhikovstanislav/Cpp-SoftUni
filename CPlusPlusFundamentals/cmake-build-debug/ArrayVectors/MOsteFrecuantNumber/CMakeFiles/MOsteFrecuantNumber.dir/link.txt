@@ -1,1 +1,3 @@
-/usr/bin/c++  -g   CMakeFiles/MOsteFrecuantNumber.dir/main.cpp.o  -o MOsteFrecuantNumber 
+"E:\Program Files\JetBrains\CLion 2018.3.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\MOsteFrecuantNumber.dir/objects.a
+"E:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe" cr CMakeFiles\MOsteFrecuantNumber.dir/objects.a @CMakeFiles\MOsteFrecuantNumber.dir\objects1.rsp
+"E:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\MOsteFrecuantNumber.dir/objects.a -Wl,--no-whole-archive  -o MOsteFrecuantNumber.exe -Wl,--out-implib,libMOsteFrecuantNumber.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MOsteFrecuantNumber.dir\linklibs.rsp

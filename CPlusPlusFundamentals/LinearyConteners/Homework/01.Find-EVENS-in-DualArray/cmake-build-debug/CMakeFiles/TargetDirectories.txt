@@ -1,3 +1,3 @@
-/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/cmake-build-debug/CMakeFiles/01_Find_EVENS_in_DualArray.dir
-/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/cmake-build-debug/CMakeFiles/01_Find_EVENS_in_DualArray.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/01.UseOfStdPair/01.Uses-of-std-pair.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/01.UseOfStdPair/CMakeFiles/01.UseOfStdPair.dir/01.Uses-of-std-pair.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/01.UseOfStdPair/01.Uses-of-std-pair.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/STL-AssociativeConteiners/Demo/01.UseOfStdPair/CMakeFiles/01.UseOfStdPair.dir/01.Uses-of-std-pair.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

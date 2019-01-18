@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/03.DateTime/main.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/03.DateTime/cmake-build-debug/CMakeFiles/03_DateTime.dir/main.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/03.DateTime/03.TimeCalculation.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/03.DateTime/cmake-build-debug/CMakeFiles/03_DateTime.dir/03.TimeCalculation.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

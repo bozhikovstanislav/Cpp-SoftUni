@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/01.ReverseWord.dir/main.cpp.o"
+  "CMakeFiles/01.ReverseWord.dir/main.cpp.obj"
   "01.ReverseWord.pdb"
-  "01.ReverseWord"
+  "01.ReverseWord.exe"
+  "01.ReverseWord.exe.manifest"
+  "lib01.ReverseWord.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

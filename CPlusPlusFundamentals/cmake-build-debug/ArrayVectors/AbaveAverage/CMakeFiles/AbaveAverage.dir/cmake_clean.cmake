@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/AbaveAverage.dir/main.cpp.o"
+  "CMakeFiles/AbaveAverage.dir/main.cpp.obj"
   "AbaveAverage.pdb"
-  "AbaveAverage"
+  "AbaveAverage.exe"
+  "AbaveAverage.exe.manifest"
+  "libAbaveAverage.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

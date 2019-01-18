@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/01.EclipseDistance/main.cpp" "/home/stanislav/Git-Repositories/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/01.EclipseDistance/cmake-build-debug/CMakeFiles/01_EclipseDistance.dir/main.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/01.EclipseDistance/03.EclipseDistance.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Class-Structurse/01.EclipseDistance/cmake-build-debug/CMakeFiles/01_EclipseDistance.dir/03.EclipseDistance.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

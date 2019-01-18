@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CompareArray.dir/main.cpp.o"
+  "CMakeFiles/CompareArray.dir/main.cpp.obj"
   "CompareArray.pdb"
-  "CompareArray"
+  "CompareArray.exe"
+  "CompareArray.exe.manifest"
+  "libCompareArray.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/main.cpp" "/home/stanislav/CLionProjects/SofUniSalution/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/cmake-build-debug/CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/main.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/LinearyConteners/Homework/01.Find-EVENS-in-DualArray/cmake-build-debug/CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

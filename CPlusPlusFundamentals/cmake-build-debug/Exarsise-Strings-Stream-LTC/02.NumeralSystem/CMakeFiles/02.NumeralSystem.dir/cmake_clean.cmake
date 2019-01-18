@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/02.NumeralSystem.dir/main.cpp.o"
+  "CMakeFiles/02.NumeralSystem.dir/main.cpp.obj"
   "02.NumeralSystem.pdb"
-  "02.NumeralSystem"
+  "02.NumeralSystem.exe"
+  "02.NumeralSystem.exe.manifest"
+  "lib02.NumeralSystem.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

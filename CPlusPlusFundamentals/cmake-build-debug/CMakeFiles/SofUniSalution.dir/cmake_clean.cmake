@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SofUniSalution.dir/main.cpp.o"
+  "CMakeFiles/SofUniSalution.dir/main.cpp.obj"
   "SofUniSalution.pdb"
-  "SofUniSalution"
+  "SofUniSalution.exe"
+  "SofUniSalution.exe.manifest"
+  "libSofUniSalution.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

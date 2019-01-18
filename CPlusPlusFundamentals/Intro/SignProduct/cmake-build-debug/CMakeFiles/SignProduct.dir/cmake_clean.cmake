@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/SignProduct.dir/main.cpp.o"
+  "CMakeFiles/SignProduct.dir/main.cpp.obj"
   "SignProduct.pdb"
-  "SignProduct"
+  "SignProduct.exe"
+  "SignProduct.exe.manifest"
+  "libSignProduct.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

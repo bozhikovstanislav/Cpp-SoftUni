@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.o"
+  "CMakeFiles/01_Find_EVENS_in_DualArray.dir/main.cpp.obj"
   "01_Find_EVENS_in_DualArray.pdb"
-  "01_Find_EVENS_in_DualArray"
+  "01_Find_EVENS_in_DualArray.exe"
+  "01_Find_EVENS_in_DualArray.exe.manifest"
+  "lib01_Find_EVENS_in_DualArray.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

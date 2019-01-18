@@ -1,1 +1,3 @@
-/usr/bin/c++  -g   CMakeFiles/04_CarProgram.dir/04.CarProgram.cpp.o  -o 04_CarProgram 
+"E:\Program Files\JetBrains\CLion 2018.3.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\04_CarProgram.dir/objects.a
+"E:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\ar.exe" cr CMakeFiles\04_CarProgram.dir/objects.a @CMakeFiles\04_CarProgram.dir\objects1.rsp
+"E:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\04_CarProgram.dir/objects.a -Wl,--no-whole-archive  -o 04_CarProgram.exe -Wl,--out-implib,lib04_CarProgram.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\04_CarProgram.dir\linklibs.rsp

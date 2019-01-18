@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/00.Array-example.dir/main.cpp.o"
+  "CMakeFiles/00.Array-example.dir/main.cpp.obj"
   "00.Array-example.pdb"
-  "00.Array-example"
+  "00.Array-example.exe"
+  "00.Array-example.exe.manifest"
+  "lib00.Array-example.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

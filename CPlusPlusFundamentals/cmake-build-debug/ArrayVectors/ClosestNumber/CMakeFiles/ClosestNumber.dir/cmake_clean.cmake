@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ClosestNumber.dir/main.cpp.o"
+  "CMakeFiles/ClosestNumber.dir/main.cpp.obj"
   "ClosestNumber.pdb"
-  "ClosestNumber"
+  "ClosestNumber.exe"
+  "ClosestNumber.exe.manifest"
+  "libClosestNumber.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

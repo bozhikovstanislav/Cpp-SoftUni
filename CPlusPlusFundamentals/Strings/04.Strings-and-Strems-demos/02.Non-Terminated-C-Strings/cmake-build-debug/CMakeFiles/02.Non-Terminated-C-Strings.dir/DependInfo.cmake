@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/stanislav/CLionProjects/SofUniSalution/Day3/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/main.cpp" "/home/stanislav/CLionProjects/SofUniSalution/Day3/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/cmake-build-debug/CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.o"
+  "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/main.cpp" "E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/cmake-build-debug/CMakeFiles/02.Non-Terminated-C-Strings.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
