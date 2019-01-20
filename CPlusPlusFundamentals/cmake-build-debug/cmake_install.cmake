@@ -102,6 +102,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Class-Structurse/05.TotalAverageOfStudent/cmake_install.cmake")
   include("E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Library/cmake_install.cmake")
   include("E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam/cmake_install.cmake")
+  include("E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam/01DiffrentStrings/cmake_install.cmake")
 
 endif()
 

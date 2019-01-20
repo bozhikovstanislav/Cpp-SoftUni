@@ -1045,6 +1045,19 @@ Exam/fast:
 	$(MAKE) -f Exam\CMakeFiles\Exam.dir\build.make Exam/CMakeFiles/Exam.dir/build
 .PHONY : Exam/fast
 
+#=============================================================================
+# Target rules for targets named 01DiffrentStrings
+
+# Build rule for target.
+01DiffrentStrings: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 01DiffrentStrings
+.PHONY : 01DiffrentStrings
+
+# fast build rule for target.
+01DiffrentStrings/fast:
+	$(MAKE) -f Exam\01DiffrentStrings\CMakeFiles\01DiffrentStrings.dir\build.make Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/build
+.PHONY : 01DiffrentStrings/fast
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -1152,6 +1165,7 @@ help:
 	@echo ... 05_TotalAverageOfStudent
 	@echo ... Library
 	@echo ... Exam
+	@echo ... 01DiffrentStrings
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

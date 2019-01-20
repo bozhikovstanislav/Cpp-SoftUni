@@ -214,3 +214,6 @@ E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Librar
 E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam/CMakeFiles/Exam.dir
 E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam/CMakeFiles/edit_cache.dir
 E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam/CMakeFiles/rebuild_cache.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam/01DiffrentStrings/CMakeFiles/edit_cache.dir
+E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam/01DiffrentStrings/CMakeFiles/rebuild_cache.dir

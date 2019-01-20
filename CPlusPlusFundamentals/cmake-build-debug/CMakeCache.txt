@@ -45,6 +45,12 @@
 01.UseOfStdPair_SOURCE_DIR:STATIC=E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/STL-AssociativeConteiners/Demo/01.UseOfStdPair
 
 //Value Computed by CMake
+01DiffrentStrings_BINARY_DIR:STATIC=E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam/01DiffrentStrings
+
+//Value Computed by CMake
+01DiffrentStrings_SOURCE_DIR:STATIC=E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Exam/01DiffrentStrings
+
+//Value Computed by CMake
 01_EclipseDistance_BINARY_DIR:STATIC=E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Class-Structurse/01.EclipseDistance
 
 //Value Computed by CMake
@@ -779,7 +785,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=72
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=73
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

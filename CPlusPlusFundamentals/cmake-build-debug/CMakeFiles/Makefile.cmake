@@ -21,6 +21,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../Class-Structurse/03.DateTime/CMakeLists.txt"
   "../Class-Structurse/04.StudentsInfo/CMakeLists.txt"
   "../Class-Structurse/05.TotalAverageOfStudent/CMakeLists.txt"
+  "../Exam/01DiffrentStrings/CMakeLists.txt"
   "../Exam/CMakeLists.txt"
   "../Exarsise-Strings-Stream-LTC/01.ReverseWord/CMakeLists.txt"
   "../Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeLists.txt"
@@ -189,6 +190,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/CMakeDirectoryInformation.cmake"
   "Library/CMakeFiles/CMakeDirectoryInformation.cmake"
   "Exam/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "Exam/01DiffrentStrings/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -265,4 +267,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/05_TotalAverageOfStudent.dir/DependInfo.cmake"
   "Library/CMakeFiles/Library.dir/DependInfo.cmake"
   "Exam/CMakeFiles/Exam.dir/DependInfo.cmake"
+  "Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/DependInfo.cmake"
   )

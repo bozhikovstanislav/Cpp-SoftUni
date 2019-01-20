@@ -510,7 +510,7 @@ ArrayVectors/AbaveAverageVector/preinstall:
 ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/all:
 	$(MAKE) -f ArrayVectors\AbaveAverageVector\CMakeFiles\AbaveAverageVector.dir\build.make ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/depend
 	$(MAKE) -f ArrayVectors\AbaveAverageVector\CMakeFiles\AbaveAverageVector.dir\build.make ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=77 "Built target AbaveAverageVector"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=77,78 "Built target AbaveAverageVector"
 .PHONY : ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/all
 
 # Include target in all.
@@ -520,7 +520,7 @@ all: ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/all
 
 # Build rule for subdir invocation for target.
 ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : ArrayVectors/AbaveAverageVector/CMakeFiles/AbaveAverageVector.dir/rule
@@ -620,7 +620,7 @@ ArrayVectors/LongestSequance/preinstall:
 ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/all:
 	$(MAKE) -f ArrayVectors\LongestSequance\CMakeFiles\LongestSequance.dir\build.make ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/depend
 	$(MAKE) -f ArrayVectors\LongestSequance\CMakeFiles\LongestSequance.dir\build.make ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=89,90 "Built target LongestSequance"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=90 "Built target LongestSequance"
 .PHONY : ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/all
 
 # Include target in all.
@@ -630,7 +630,7 @@ all: ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/all
 
 # Build rule for subdir invocation for target.
 ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : ArrayVectors/LongestSequance/CMakeFiles/LongestSequance.dir/rule
@@ -675,7 +675,7 @@ ArrayVectors/CompareArray/preinstall:
 ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/all:
 	$(MAKE) -f ArrayVectors\CompareArray\CMakeFiles\CompareArray.dir\build.make ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/depend
 	$(MAKE) -f ArrayVectors\CompareArray\CMakeFiles\CompareArray.dir\build.make ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=81 "Built target CompareArray"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=81,82 "Built target CompareArray"
 .PHONY : ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/all
 
 # Include target in all.
@@ -685,7 +685,7 @@ all: ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/all
 
 # Build rule for subdir invocation for target.
 ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : ArrayVectors/CompareArray/CMakeFiles/CompareArray.dir/rule
@@ -785,7 +785,7 @@ ArrayVectors/Closessed/preinstall:
 ArrayVectors/Closessed/CMakeFiles/Closessed.dir/all:
 	$(MAKE) -f ArrayVectors\Closessed\CMakeFiles\Closessed.dir\build.make ArrayVectors/Closessed/CMakeFiles/Closessed.dir/depend
 	$(MAKE) -f ArrayVectors\Closessed\CMakeFiles\Closessed.dir\build.make ArrayVectors/Closessed/CMakeFiles/Closessed.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=78,79 "Built target Closessed"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=79 "Built target Closessed"
 .PHONY : ArrayVectors/Closessed/CMakeFiles/Closessed.dir/all
 
 # Include target in all.
@@ -795,7 +795,7 @@ all: ArrayVectors/Closessed/CMakeFiles/Closessed.dir/all
 
 # Build rule for subdir invocation for target.
 ArrayVectors/Closessed/CMakeFiles/Closessed.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 ArrayVectors/Closessed/CMakeFiles/Closessed.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : ArrayVectors/Closessed/CMakeFiles/Closessed.dir/rule
@@ -840,7 +840,7 @@ ArrayVectors/CrtesianProduct/preinstall:
 ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/all:
 	$(MAKE) -f ArrayVectors\CrtesianProduct\CMakeFiles\CrtesianProduct.dir\build.make ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/depend
 	$(MAKE) -f ArrayVectors\CrtesianProduct\CMakeFiles\CrtesianProduct.dir\build.make ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=82,83 "Built target CrtesianProduct"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=83 "Built target CrtesianProduct"
 .PHONY : ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/all
 
 # Include target in all.
@@ -850,7 +850,7 @@ all: ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/all
 
 # Build rule for subdir invocation for target.
 ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : ArrayVectors/CrtesianProduct/CMakeFiles/CrtesianProduct.dir/rule
@@ -1005,7 +1005,7 @@ Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/preinstall:
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\02.Non-Terminated-C-Strings\CMakeFiles\02.Non-Terminated-C-Strings.dir\build.make Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\02.Non-Terminated-C-Strings\CMakeFiles\02.Non-Terminated-C-Strings.dir\build.make Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=13 "Built target 02.Non-Terminated-C-Strings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=14,15 "Built target 02.Non-Terminated-C-Strings"
 .PHONY : Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/all
 
 # Include target in all.
@@ -1015,7 +1015,7 @@ all: Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/
 
 # Build rule for subdir invocation for target.
 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Strings/04.Strings-and-Strems-demos/02.Non-Terminated-C-Strings/CMakeFiles/02.Non-Terminated-C-Strings.dir/rule
@@ -1060,7 +1060,7 @@ Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/preinstall:
 Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeFiles/02a.C-stringsbuild-infunctions.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\02a.C-stringsbuild-infunctions\CMakeFiles\02a.C-stringsbuild-infunctions.dir\build.make Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeFiles/02a.C-stringsbuild-infunctions.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\02a.C-stringsbuild-infunctions\CMakeFiles\02a.C-stringsbuild-infunctions.dir\build.make Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeFiles/02a.C-stringsbuild-infunctions.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=24,25 "Built target 02a.C-stringsbuild-infunctions"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=25,26 "Built target 02a.C-stringsbuild-infunctions"
 .PHONY : Strings/04.Strings-and-Strems-demos/02a.C-stringsbuild-infunctions/CMakeFiles/02a.C-stringsbuild-infunctions.dir/all
 
 # Include target in all.
@@ -1115,7 +1115,7 @@ Strings/04.Strings-and-Strems-demos/03.std-string-Basics/preinstall:
 Strings/04.Strings-and-Strems-demos/03.std-string-Basics/CMakeFiles/03.std-string-Basics.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\03.std-string-Basics\CMakeFiles\03.std-string-Basics.dir\build.make Strings/04.Strings-and-Strems-demos/03.std-string-Basics/CMakeFiles/03.std-string-Basics.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\03.std-string-Basics\CMakeFiles\03.std-string-Basics.dir\build.make Strings/04.Strings-and-Strems-demos/03.std-string-Basics/CMakeFiles/03.std-string-Basics.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=30 "Built target 03.std-string-Basics"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=31 "Built target 03.std-string-Basics"
 .PHONY : Strings/04.Strings-and-Strems-demos/03.std-string-Basics/CMakeFiles/03.std-string-Basics.dir/all
 
 # Include target in all.
@@ -1170,7 +1170,7 @@ Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/preinsta
 Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeFiles/04.std-string-Comparison-and-Search.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\04.std-string-Comparison-and-Search\CMakeFiles\04.std-string-Comparison-and-Search.dir\build.make Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeFiles/04.std-string-Comparison-and-Search.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\04.std-string-Comparison-and-Search\CMakeFiles\04.std-string-Comparison-and-Search.dir\build.make Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeFiles/04.std-string-Comparison-and-Search.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=38 "Built target 04.std-string-Comparison-and-Search"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=39 "Built target 04.std-string-Comparison-and-Search"
 .PHONY : Strings/04.Strings-and-Strems-demos/04.std-string-Comparison-and-Search/CMakeFiles/04.std-string-Comparison-and-Search.dir/all
 
 # Include target in all.
@@ -1225,7 +1225,7 @@ Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/prei
 Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\05.std-string-Find-Multiple-Occurrences\CMakeFiles\05.std-string-Find-Multiple-Occurrences.dir\build.make Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\05.std-string-Find-Multiple-Occurrences\CMakeFiles\05.std-string-Find-Multiple-Occurrences.dir\build.make Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=48 "Built target 05.std-string-Find-Multiple-Occurrences"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=48,49 "Built target 05.std-string-Find-Multiple-Occurrences"
 .PHONY : Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/all
 
 # Include target in all.
@@ -1235,7 +1235,7 @@ all: Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences
 
 # Build rule for subdir invocation for target.
 Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Strings/04.Strings-and-Strems-demos/05.std-string-Find-Multiple-Occurrences/CMakeFiles/05.std-string-Find-Multiple-Occurrences.dir/rule
@@ -1280,7 +1280,7 @@ Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/preins
 Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/06.std-string-Substring-Erase-Replace.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\06.std-string-Substring-Erase-Replace\CMakeFiles\06.std-string-Substring-Erase-Replace.dir\build.make Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/06.std-string-Substring-Erase-Replace.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\06.std-string-Substring-Erase-Replace\CMakeFiles\06.std-string-Substring-Erase-Replace.dir\build.make Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/06.std-string-Substring-Erase-Replace.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=56 "Built target 06.std-string-Substring-Erase-Replace"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=57 "Built target 06.std-string-Substring-Erase-Replace"
 .PHONY : Strings/04.Strings-and-Strems-demos/06.std-string-Substring-Erase-Replace/CMakeFiles/06.std-string-Substring-Erase-Replace.dir/all
 
 # Include target in all.
@@ -1335,7 +1335,7 @@ Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/preinstall:
 Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07.Using-std-stringstream.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\07.Using-std-stringstream\CMakeFiles\07.Using-std-stringstream.dir\build.make Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07.Using-std-stringstream.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\07.Using-std-stringstream\CMakeFiles\07.Using-std-stringstream.dir\build.make Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07.Using-std-stringstream.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=60,61 "Built target 07.Using-std-stringstream"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=61 "Built target 07.Using-std-stringstream"
 .PHONY : Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07.Using-std-stringstream.dir/all
 
 # Include target in all.
@@ -1345,7 +1345,7 @@ all: Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07
 
 # Build rule for subdir invocation for target.
 Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07.Using-std-stringstream.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07.Using-std-stringstream.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Strings/04.Strings-and-Strems-demos/07.Using-std-stringstream/CMakeFiles/07.Using-std-stringstream.dir/rule
@@ -1390,7 +1390,7 @@ Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/preinsta
 Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\08.Reading-with-getline-and-Streams\CMakeFiles\08.Reading-with-getline-and-Streams.dir\build.make Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\08.Reading-with-getline-and-Streams\CMakeFiles\08.Reading-with-getline-and-Streams.dir\build.make Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=63 "Built target 08.Reading-with-getline-and-Streams"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=64 "Built target 08.Reading-with-getline-and-Streams"
 .PHONY : Strings/04.Strings-and-Strems-demos/08.Reading-with-getline-and-Streams/CMakeFiles/08.Reading-with-getline-and-Streams.dir/all
 
 # Include target in all.
@@ -1445,7 +1445,7 @@ Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/preinstall:
 Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFiles/09.Parsing-Numbers-from-a-Line.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\09.Parsing-Numbers-from-a-Line\CMakeFiles\09.Parsing-Numbers-from-a-Line.dir\build.make Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFiles/09.Parsing-Numbers-from-a-Line.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\09.Parsing-Numbers-from-a-Line\CMakeFiles\09.Parsing-Numbers-from-a-Line.dir\build.make Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFiles/09.Parsing-Numbers-from-a-Line.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=67,68 "Built target 09.Parsing-Numbers-from-a-Line"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=68 "Built target 09.Parsing-Numbers-from-a-Line"
 .PHONY : Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFiles/09.Parsing-Numbers-from-a-Line.dir/all
 
 # Include target in all.
@@ -1455,7 +1455,7 @@ all: Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFil
 
 # Build rule for subdir invocation for target.
 Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFiles/09.Parsing-Numbers-from-a-Line.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFiles/09.Parsing-Numbers-from-a-Line.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Strings/04.Strings-and-Strems-demos/09.Parsing-Numbers-from-a-Line/CMakeFiles/09.Parsing-Numbers-from-a-Line.dir/rule
@@ -1500,7 +1500,7 @@ Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/preinst
 Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/all:
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\10.Reading-From-and-Writing-to-Files\CMakeFiles\10.Reading-From-and-Writing-to-Files.dir\build.make Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/depend
 	$(MAKE) -f Strings\04.Strings-and-Strems-demos\10.Reading-From-and-Writing-to-Files\CMakeFiles\10.Reading-From-and-Writing-to-Files.dir\build.make Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=70 "Built target 10.Reading-From-and-Writing-to-Files"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=70,71 "Built target 10.Reading-From-and-Writing-to-Files"
 .PHONY : Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/all
 
 # Include target in all.
@@ -1510,7 +1510,7 @@ all: Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CM
 
 # Build rule for subdir invocation for target.
 Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Strings/04.Strings-and-Strems-demos/10.Reading-From-and-Writing-to-Files/CMakeFiles/10.Reading-From-and-Writing-to-Files.dir/rule
@@ -1555,7 +1555,7 @@ Strings/HomeWork/01-FilterStrings/preinstall:
 Strings/HomeWork/01-FilterStrings/CMakeFiles/01_FilterStrings.dir/all:
 	$(MAKE) -f Strings\HomeWork\01-FilterStrings\CMakeFiles\01_FilterStrings.dir\build.make Strings/HomeWork/01-FilterStrings/CMakeFiles/01_FilterStrings.dir/depend
 	$(MAKE) -f Strings\HomeWork\01-FilterStrings\CMakeFiles\01_FilterStrings.dir\build.make Strings/HomeWork/01-FilterStrings/CMakeFiles/01_FilterStrings.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=10,11 "Built target 01_FilterStrings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target 01_FilterStrings"
 .PHONY : Strings/HomeWork/01-FilterStrings/CMakeFiles/01_FilterStrings.dir/all
 
 # Include target in all.
@@ -1610,7 +1610,7 @@ Strings/HomeWork/02-EquaStrings/preinstall:
 Strings/HomeWork/02-EquaStrings/CMakeFiles/02_EquaStrings.dir/all:
 	$(MAKE) -f Strings\HomeWork\02-EquaStrings\CMakeFiles\02_EquaStrings.dir\build.make Strings/HomeWork/02-EquaStrings/CMakeFiles/02_EquaStrings.dir/depend
 	$(MAKE) -f Strings\HomeWork\02-EquaStrings\CMakeFiles\02_EquaStrings.dir\build.make Strings/HomeWork/02-EquaStrings/CMakeFiles/02_EquaStrings.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=19 "Built target 02_EquaStrings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=20 "Built target 02_EquaStrings"
 .PHONY : Strings/HomeWork/02-EquaStrings/CMakeFiles/02_EquaStrings.dir/all
 
 # Include target in all.
@@ -1665,7 +1665,7 @@ Strings/HomeWork/03-CommaReplacement/preinstall:
 Strings/HomeWork/03-CommaReplacement/CMakeFiles/03_CommaReplacement.dir/all:
 	$(MAKE) -f Strings\HomeWork\03-CommaReplacement\CMakeFiles\03_CommaReplacement.dir\build.make Strings/HomeWork/03-CommaReplacement/CMakeFiles/03_CommaReplacement.dir/depend
 	$(MAKE) -f Strings\HomeWork\03-CommaReplacement\CMakeFiles\03_CommaReplacement.dir\build.make Strings/HomeWork/03-CommaReplacement/CMakeFiles/03_CommaReplacement.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=31 "Built target 03_CommaReplacement"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=32 "Built target 03_CommaReplacement"
 .PHONY : Strings/HomeWork/03-CommaReplacement/CMakeFiles/03_CommaReplacement.dir/all
 
 # Include target in all.
@@ -1720,7 +1720,7 @@ Strings/HomeWork/04-ReversString/preinstall:
 Strings/HomeWork/04-ReversString/CMakeFiles/04_ReversString.dir/all:
 	$(MAKE) -f Strings\HomeWork\04-ReversString\CMakeFiles\04_ReversString.dir\build.make Strings/HomeWork/04-ReversString/CMakeFiles/04_ReversString.dir/depend
 	$(MAKE) -f Strings\HomeWork\04-ReversString\CMakeFiles\04_ReversString.dir\build.make Strings/HomeWork/04-ReversString/CMakeFiles/04_ReversString.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=41 "Built target 04_ReversString"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=42 "Built target 04_ReversString"
 .PHONY : Strings/HomeWork/04-ReversString/CMakeFiles/04_ReversString.dir/all
 
 # Include target in all.
@@ -1775,7 +1775,7 @@ Strings/HomeWork/05-SumOfNumbersInString/preinstall:
 Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString.dir/all:
 	$(MAKE) -f Strings\HomeWork\05-SumOfNumbersInString\CMakeFiles\05_SumOfNumbersInString.dir\build.make Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString.dir/depend
 	$(MAKE) -f Strings\HomeWork\05-SumOfNumbersInString\CMakeFiles\05_SumOfNumbersInString.dir\build.make Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=51 "Built target 05_SumOfNumbersInString"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=51,52 "Built target 05_SumOfNumbersInString"
 .PHONY : Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString.dir/all
 
 # Include target in all.
@@ -1785,7 +1785,7 @@ all: Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString
 
 # Build rule for subdir invocation for target.
 Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Strings/HomeWork/05-SumOfNumbersInString/CMakeFiles/05_SumOfNumbersInString.dir/rule
@@ -1885,7 +1885,7 @@ LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimension
 LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeFiles/02_Row_Major_Order_in_Multidimensional_Arrays.dir/all:
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\02.Row-Major-Order-in-Multidimensional-Arrays\CMakeFiles\02_Row_Major_Order_in_Multidimensional_Arrays.dir\build.make LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeFiles/02_Row_Major_Order_in_Multidimensional_Arrays.dir/depend
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\02.Row-Major-Order-in-Multidimensional-Arrays\CMakeFiles\02_Row_Major_Order_in_Multidimensional_Arrays.dir\build.make LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeFiles/02_Row_Major_Order_in_Multidimensional_Arrays.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=23 "Built target 02_Row_Major_Order_in_Multidimensional_Arrays"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=24 "Built target 02_Row_Major_Order_in_Multidimensional_Arrays"
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/02.Row-Major-Order-in-Multidimensional-Arrays/CMakeFiles/02_Row_Major_Order_in_Multidimensional_Arrays.dir/all
 
 # Include target in all.
@@ -1940,7 +1940,7 @@ LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/prein
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/all:
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\03.Multidimensional-Containers\CMakeFiles\03_Multidimensional_Containers.dir\build.make LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/depend
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\03.Multidimensional-Containers\CMakeFiles\03_Multidimensional_Containers.dir\build.make LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=35,36 "Built target 03_Multidimensional_Containers"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=36 "Built target 03_Multidimensional_Containers"
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/all
 
 # Include target in all.
@@ -1950,7 +1950,7 @@ all: LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/
 
 # Build rule for subdir invocation for target.
 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/03.Multidimensional-Containers/CMakeFiles/03_Multidimensional_Containers.dir/rule
@@ -1995,7 +1995,7 @@ LinearyConteners/05.Linear-Containers-Demos/04.vector/preinstall:
 LinearyConteners/05.Linear-Containers-Demos/04.vector/CMakeFiles/04_vector.dir/all:
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\04.vector\CMakeFiles\04_vector.dir\build.make LinearyConteners/05.Linear-Containers-Demos/04.vector/CMakeFiles/04_vector.dir/depend
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\04.vector\CMakeFiles\04_vector.dir\build.make LinearyConteners/05.Linear-Containers-Demos/04.vector/CMakeFiles/04_vector.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=45 "Built target 04_vector"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=46 "Built target 04_vector"
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/04.vector/CMakeFiles/04_vector.dir/all
 
 # Include target in all.
@@ -2050,7 +2050,7 @@ LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/prein
 LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/05_Using_Iterators_with_vector.dir/all:
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\05.Using-Iterators-with-vector\CMakeFiles\05_Using_Iterators_with_vector.dir\build.make LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/05_Using_Iterators_with_vector.dir/depend
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\05.Using-Iterators-with-vector\CMakeFiles\05_Using_Iterators_with_vector.dir\build.make LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/05_Using_Iterators_with_vector.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=53,54 "Built target 05_Using_Iterators_with_vector"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=54 "Built target 05_Using_Iterators_with_vector"
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/05_Using_Iterators_with_vector.dir/all
 
 # Include target in all.
@@ -2060,7 +2060,7 @@ all: LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/
 
 # Build rule for subdir invocation for target.
 LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/05_Using_Iterators_with_vector.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/05_Using_Iterators_with_vector.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/05.Using-Iterators-with-vector/CMakeFiles/05_Using_Iterators_with_vector.dir/rule
@@ -2105,7 +2105,7 @@ LinearyConteners/05.Linear-Containers-Demos/06.list/preinstall:
 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/all:
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\06.list\CMakeFiles\06_list.dir\build.make LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/depend
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\06.list\CMakeFiles\06_list.dir\build.make LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=57,58 "Built target 06_list"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=58 "Built target 06_list"
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/all
 
 # Include target in all.
@@ -2115,7 +2115,7 @@ all: LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/
 
 # Build rule for subdir invocation for target.
 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/06.list/CMakeFiles/06_list.dir/rule
@@ -2160,7 +2160,7 @@ LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/preinstall:
 LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFiles/07_Container_Adaptors.dir/all:
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\07.Container-Adaptors\CMakeFiles\07_Container_Adaptors.dir\build.make LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFiles/07_Container_Adaptors.dir/depend
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\07.Container-Adaptors\CMakeFiles\07_Container_Adaptors.dir\build.make LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFiles/07_Container_Adaptors.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=62 "Built target 07_Container_Adaptors"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=62,63 "Built target 07_Container_Adaptors"
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFiles/07_Container_Adaptors.dir/all
 
 # Include target in all.
@@ -2170,7 +2170,7 @@ all: LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFile
 
 # Build rule for subdir invocation for target.
 LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFiles/07_Container_Adaptors.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFiles/07_Container_Adaptors.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/07.Container-Adaptors/CMakeFiles/07_Container_Adaptors.dir/rule
@@ -2215,7 +2215,7 @@ LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/preinstall:
 LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/08_Browser_History.dir/all:
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\08.Browser-History\CMakeFiles\08_Browser_History.dir\build.make LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/08_Browser_History.dir/depend
 	$(MAKE) -f LinearyConteners\05.Linear-Containers-Demos\08.Browser-History\CMakeFiles\08_Browser_History.dir\build.make LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/08_Browser_History.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=66 "Built target 08_Browser_History"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=66,67 "Built target 08_Browser_History"
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/08_Browser_History.dir/all
 
 # Include target in all.
@@ -2225,7 +2225,7 @@ all: LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/0
 
 # Build rule for subdir invocation for target.
 LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/08_Browser_History.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/08_Browser_History.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : LinearyConteners/05.Linear-Containers-Demos/08.Browser-History/CMakeFiles/08_Browser_History.dir/rule
@@ -2270,7 +2270,7 @@ LinearyConteners/Homework/01.Find-EVENS-in-DualArray/preinstall:
 LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/all:
 	$(MAKE) -f LinearyConteners\Homework\01.Find-EVENS-in-DualArray\CMakeFiles\01_Find_EVENS_in_DualArray.dir\build.make LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/depend
 	$(MAKE) -f LinearyConteners\Homework\01.Find-EVENS-in-DualArray\CMakeFiles\01_Find_EVENS_in_DualArray.dir\build.make LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=12 "Built target 01_Find_EVENS_in_DualArray"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=13 "Built target 01_Find_EVENS_in_DualArray"
 .PHONY : LinearyConteners/Homework/01.Find-EVENS-in-DualArray/CMakeFiles/01_Find_EVENS_in_DualArray.dir/all
 
 # Include target in all.
@@ -2325,7 +2325,7 @@ LinearyConteners/Homework/02.Find-INDEX-in-DualArray/preinstall:
 LinearyConteners/Homework/02.Find-INDEX-in-DualArray/CMakeFiles/02_Find_INDEX_in_DualArray.dir/all:
 	$(MAKE) -f LinearyConteners\Homework\02.Find-INDEX-in-DualArray\CMakeFiles\02_Find_INDEX_in_DualArray.dir\build.make LinearyConteners/Homework/02.Find-INDEX-in-DualArray/CMakeFiles/02_Find_INDEX_in_DualArray.dir/depend
 	$(MAKE) -f LinearyConteners\Homework\02.Find-INDEX-in-DualArray\CMakeFiles\02_Find_INDEX_in_DualArray.dir\build.make LinearyConteners/Homework/02.Find-INDEX-in-DualArray/CMakeFiles/02_Find_INDEX_in_DualArray.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=21,22 "Built target 02_Find_INDEX_in_DualArray"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=22,23 "Built target 02_Find_INDEX_in_DualArray"
 .PHONY : LinearyConteners/Homework/02.Find-INDEX-in-DualArray/CMakeFiles/02_Find_INDEX_in_DualArray.dir/all
 
 # Include target in all.
@@ -2380,7 +2380,7 @@ LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/preinstall:
 LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/CMakeFiles/03_Find_Even_Numbers_in_Vectors.dir/all:
 	$(MAKE) -f LinearyConteners\Homework\03.Find-Even-Numbers-in-Vectors\CMakeFiles\03_Find_Even_Numbers_in_Vectors.dir\build.make LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/CMakeFiles/03_Find_Even_Numbers_in_Vectors.dir/depend
 	$(MAKE) -f LinearyConteners\Homework\03.Find-Even-Numbers-in-Vectors\CMakeFiles\03_Find_Even_Numbers_in_Vectors.dir\build.make LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/CMakeFiles/03_Find_Even_Numbers_in_Vectors.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=34 "Built target 03_Find_Even_Numbers_in_Vectors"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=35 "Built target 03_Find_Even_Numbers_in_Vectors"
 .PHONY : LinearyConteners/Homework/03.Find-Even-Numbers-in-Vectors/CMakeFiles/03_Find_Even_Numbers_in_Vectors.dir/all
 
 # Include target in all.
@@ -2435,7 +2435,7 @@ LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/preinstall:
 LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_Number_in_Grate_Order.dir/all:
 	$(MAKE) -f LinearyConteners\Homework\04.Sort-Number-in-Grate-Order\CMakeFiles\04_Sort_Number_in_Grate_Order.dir\build.make LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_Number_in_Grate_Order.dir/depend
 	$(MAKE) -f LinearyConteners\Homework\04.Sort-Number-in-Grate-Order\CMakeFiles\04_Sort_Number_in_Grate_Order.dir\build.make LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_Number_in_Grate_Order.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=42,43 "Built target 04_Sort_Number_in_Grate_Order"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=43 "Built target 04_Sort_Number_in_Grate_Order"
 .PHONY : LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_Number_in_Grate_Order.dir/all
 
 # Include target in all.
@@ -2445,7 +2445,7 @@ all: LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_
 
 # Build rule for subdir invocation for target.
 LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_Number_in_Grate_Order.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_Number_in_Grate_Order.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : LinearyConteners/Homework/04.Sort-Number-in-Grate-Order/CMakeFiles/04_Sort_Number_in_Grate_Order.dir/rule
@@ -2490,7 +2490,7 @@ LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/preinstall:
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/all:
 	$(MAKE) -f LinearyConteners\Homework\05.Find-Sum-of-All-Numbers-in-Vector\CMakeFiles\05_Find_Sum_of_All_Numbers_in_Vector.dir\build.make LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/depend
 	$(MAKE) -f LinearyConteners\Homework\05.Find-Sum-of-All-Numbers-in-Vector\CMakeFiles\05_Find_Sum_of_All_Numbers_in_Vector.dir\build.make LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=49,50 "Built target 05_Find_Sum_of_All_Numbers_in_Vector"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=50 "Built target 05_Find_Sum_of_All_Numbers_in_Vector"
 .PHONY : LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/all
 
 # Include target in all.
@@ -2500,7 +2500,7 @@ all: LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/0
 
 # Build rule for subdir invocation for target.
 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : LinearyConteners/Homework/05.Find-Sum-of-All-Numbers-in-Vector/CMakeFiles/05_Find_Sum_of_All_Numbers_in_Vector.dir/rule
@@ -2663,7 +2663,7 @@ Exarsise-Strings-Stream-LTC/02.NumeralSystem/preinstall:
 Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir/all:
 	$(MAKE) -f Exarsise-Strings-Stream-LTC\02.NumeralSystem\CMakeFiles\02.NumeralSystem.dir\build.make Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir/depend
 	$(MAKE) -f Exarsise-Strings-Stream-LTC\02.NumeralSystem\CMakeFiles\02.NumeralSystem.dir\build.make Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=14,15 "Built target 02.NumeralSystem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=16 "Built target 02.NumeralSystem"
 .PHONY : Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir/all
 
 # Include target in all.
@@ -2673,7 +2673,7 @@ all: Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.di
 
 # Build rule for subdir invocation for target.
 Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Exarsise-Strings-Stream-LTC/02.NumeralSystem/CMakeFiles/02.NumeralSystem.dir/rule
@@ -2718,7 +2718,7 @@ Exarsise-Strings-Stream-LTC/03.Minesweeper/preinstall:
 Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeFiles/03.Minesweeper.dir/all:
 	$(MAKE) -f Exarsise-Strings-Stream-LTC\03.Minesweeper\CMakeFiles\03.Minesweeper.dir\build.make Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeFiles/03.Minesweeper.dir/depend
 	$(MAKE) -f Exarsise-Strings-Stream-LTC\03.Minesweeper\CMakeFiles\03.Minesweeper.dir\build.make Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeFiles/03.Minesweeper.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=28,29 "Built target 03.Minesweeper"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=29,30 "Built target 03.Minesweeper"
 .PHONY : Exarsise-Strings-Stream-LTC/03.Minesweeper/CMakeFiles/03.Minesweeper.dir/all
 
 # Include target in all.
@@ -2828,7 +2828,7 @@ STL-AssociativeConteiners/Demo/02.StdMap/preinstall:
 STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/02.StdMap.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\Demo\02.StdMap\CMakeFiles\02.StdMap.dir\build.make STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/02.StdMap.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\Demo\02.StdMap\CMakeFiles\02.StdMap.dir\build.make STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/02.StdMap.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=16 "Built target 02.StdMap"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=17 "Built target 02.StdMap"
 .PHONY : STL-AssociativeConteiners/Demo/02.StdMap/CMakeFiles/02.StdMap.dir/all
 
 # Include target in all.
@@ -2883,7 +2883,7 @@ STL-AssociativeConteiners/Demo/03.MapIndexingOperator/preinstall:
 STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeFiles/03.MapIndexingOperator.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\Demo\03.MapIndexingOperator\CMakeFiles\03.MapIndexingOperator.dir\build.make STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeFiles/03.MapIndexingOperator.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\Demo\03.MapIndexingOperator\CMakeFiles\03.MapIndexingOperator.dir\build.make STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeFiles/03.MapIndexingOperator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=27 "Built target 03.MapIndexingOperator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=28 "Built target 03.MapIndexingOperator"
 .PHONY : STL-AssociativeConteiners/Demo/03.MapIndexingOperator/CMakeFiles/03.MapIndexingOperator.dir/all
 
 # Include target in all.
@@ -2938,7 +2938,7 @@ STL-AssociativeConteiners/Demo/04.StdSet/preinstall:
 STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\Demo\04.StdSet\CMakeFiles\04.StdSet.dir\build.make STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\Demo\04.StdSet\CMakeFiles\04.StdSet.dir\build.make STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=37 "Built target 04.StdSet"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=37,38 "Built target 04.StdSet"
 .PHONY : STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/all
 
 # Include target in all.
@@ -2948,7 +2948,7 @@ all: STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/all
 
 # Build rule for subdir invocation for target.
 STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : STL-AssociativeConteiners/Demo/04.StdSet/CMakeFiles/04.StdSet.dir/rule
@@ -2993,7 +2993,7 @@ STL-AssociativeConteiners/Demo/05.UnorederdMap/preinstall:
 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\Demo\05.UnorederdMap\CMakeFiles\05.UnorederdMap.dir\build.make STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\Demo\05.UnorederdMap\CMakeFiles\05.UnorederdMap.dir\build.make STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=46,47 "Built target 05.UnorederdMap"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=47 "Built target 05.UnorederdMap"
 .PHONY : STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/all
 
 # Include target in all.
@@ -3003,7 +3003,7 @@ all: STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.d
 
 # Build rule for subdir invocation for target.
 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : STL-AssociativeConteiners/Demo/05.UnorederdMap/CMakeFiles/05.UnorederdMap.dir/rule
@@ -3048,7 +3048,7 @@ STL-AssociativeConteiners/Demo/06.UnorderedSet/preinstall:
 STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\Demo\06.UnorderedSet\CMakeFiles\06.UnorderedSet.dir\build.make STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\Demo\06.UnorderedSet\CMakeFiles\06.UnorderedSet.dir\build.make STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=55 "Built target 06.UnorderedSet"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=55,56 "Built target 06.UnorderedSet"
 .PHONY : STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.dir/all
 
 # Include target in all.
@@ -3058,7 +3058,7 @@ all: STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.d
 
 # Build rule for subdir invocation for target.
 STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : STL-AssociativeConteiners/Demo/06.UnorderedSet/CMakeFiles/06.UnorderedSet.dir/rule
@@ -3103,7 +3103,7 @@ STL-AssociativeConteiners/Demo/07.MapOfVectors/preinstall:
 STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\Demo\07.MapOfVectors\CMakeFiles\07.MapOfVectors.dir\build.make STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\Demo\07.MapOfVectors\CMakeFiles\07.MapOfVectors.dir\build.make STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=59 "Built target 07.MapOfVectors"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=59,60 "Built target 07.MapOfVectors"
 .PHONY : STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.dir/all
 
 # Include target in all.
@@ -3113,7 +3113,7 @@ all: STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.d
 
 # Build rule for subdir invocation for target.
 STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : STL-AssociativeConteiners/Demo/07.MapOfVectors/CMakeFiles/07.MapOfVectors.dir/rule
@@ -3158,7 +3158,7 @@ STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/preinstall:
 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\Demo\08.SortingArrayLikeConteiners\CMakeFiles\08.SortingArrayLikeConteiners.dir\build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\Demo\08.SortingArrayLikeConteiners\CMakeFiles\08.SortingArrayLikeConteiners.dir\build.make STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=64,65 "Built target 08.SortingArrayLikeConteiners"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=65 "Built target 08.SortingArrayLikeConteiners"
 .PHONY : STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/all
 
 # Include target in all.
@@ -3168,7 +3168,7 @@ all: STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.
 
 # Build rule for subdir invocation for target.
 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : STL-AssociativeConteiners/Demo/08.SortingArrayLikeConteiners/CMakeFiles/08.SortingArrayLikeConteiners.dir/rule
@@ -3268,7 +3268,7 @@ STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/preinstall:
 STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.SearchingAlgorithums.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\Demo\10.SearchingAlgorithums\CMakeFiles\10.SearchingAlgorithums.dir\build.make STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.SearchingAlgorithums.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\Demo\10.SearchingAlgorithums\CMakeFiles\10.SearchingAlgorithums.dir\build.make STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.SearchingAlgorithums.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=71,72 "Built target 10.SearchingAlgorithums"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=72 "Built target 10.SearchingAlgorithums"
 .PHONY : STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.SearchingAlgorithums.dir/all
 
 # Include target in all.
@@ -3278,7 +3278,7 @@ all: STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.Search
 
 # Build rule for subdir invocation for target.
 STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.SearchingAlgorithums.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.SearchingAlgorithums.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : STL-AssociativeConteiners/Demo/10.SearchingAlgorithums/CMakeFiles/10.SearchingAlgorithums.dir/rule
@@ -3433,7 +3433,7 @@ STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/preinstall:
 STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\HomeWork\01.EvenOddInMap\CMakeFiles\01_EvenOddInMap.dir\build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\HomeWork\01.EvenOddInMap\CMakeFiles\01_EvenOddInMap.dir\build.make STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=9 "Built target 01_EvenOddInMap"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=10 "Built target 01_EvenOddInMap"
 .PHONY : STL-AssociativeConteiners/HomeWork/01.EvenOddInMap/CMakeFiles/01_EvenOddInMap.dir/all
 
 # Include target in all.
@@ -3488,7 +3488,7 @@ STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/preinstall:
 STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeFiles/02_FilterByNameorAge.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\HomeWork\02.FilterByNameorAge\CMakeFiles\02_FilterByNameorAge.dir\build.make STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeFiles/02_FilterByNameorAge.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\HomeWork\02.FilterByNameorAge\CMakeFiles\02_FilterByNameorAge.dir\build.make STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeFiles/02_FilterByNameorAge.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=20 "Built target 02_FilterByNameorAge"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=21 "Built target 02_FilterByNameorAge"
 .PHONY : STL-AssociativeConteiners/HomeWork/02.FilterByNameorAge/CMakeFiles/02_FilterByNameorAge.dir/all
 
 # Include target in all.
@@ -3543,7 +3543,7 @@ STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/preinstall:
 STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/03.FindPointIfInsideOutSide.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\HomeWork\03.FindPointIfInsideOutSide\CMakeFiles\03.FindPointIfInsideOutSide.dir\build.make STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/03.FindPointIfInsideOutSide.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\HomeWork\03.FindPointIfInsideOutSide\CMakeFiles\03.FindPointIfInsideOutSide.dir\build.make STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/03.FindPointIfInsideOutSide.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=26 "Built target 03.FindPointIfInsideOutSide"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=27 "Built target 03.FindPointIfInsideOutSide"
 .PHONY : STL-AssociativeConteiners/HomeWork/03.FindPointIfInsideOutSide/CMakeFiles/03.FindPointIfInsideOutSide.dir/all
 
 # Include target in all.
@@ -3598,7 +3598,7 @@ STL-AssociativeConteiners/HomeWork/04.CarProgram/preinstall:
 STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/04_CarProgram.dir/all:
 	$(MAKE) -f STL-AssociativeConteiners\HomeWork\04.CarProgram\CMakeFiles\04_CarProgram.dir\build.make STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/04_CarProgram.dir/depend
 	$(MAKE) -f STL-AssociativeConteiners\HomeWork\04.CarProgram\CMakeFiles\04_CarProgram.dir\build.make STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/04_CarProgram.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=39,40 "Built target 04_CarProgram"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=40,41 "Built target 04_CarProgram"
 .PHONY : STL-AssociativeConteiners/HomeWork/04.CarProgram/CMakeFiles/04_CarProgram.dir/all
 
 # Include target in all.
@@ -3653,7 +3653,7 @@ Class-Structurse/03.DateTime/preinstall:
 Class-Structurse/03.DateTime/CMakeFiles/03_DateTime.dir/all:
 	$(MAKE) -f Class-Structurse\03.DateTime\CMakeFiles\03_DateTime.dir\build.make Class-Structurse/03.DateTime/CMakeFiles/03_DateTime.dir/depend
 	$(MAKE) -f Class-Structurse\03.DateTime\CMakeFiles\03_DateTime.dir\build.make Class-Structurse/03.DateTime/CMakeFiles/03_DateTime.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=32,33 "Built target 03_DateTime"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=33,34 "Built target 03_DateTime"
 .PHONY : Class-Structurse/03.DateTime/CMakeFiles/03_DateTime.dir/all
 
 # Include target in all.
@@ -3708,7 +3708,7 @@ Class-Structurse/01.EclipseDistance/preinstall:
 Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/all:
 	$(MAKE) -f Class-Structurse\01.EclipseDistance\CMakeFiles\01_EclipseDistance.dir\build.make Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/depend
 	$(MAKE) -f Class-Structurse\01.EclipseDistance\CMakeFiles\01_EclipseDistance.dir\build.make Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target 01_EclipseDistance"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=9 "Built target 01_EclipseDistance"
 .PHONY : Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/all
 
 # Include target in all.
@@ -3718,7 +3718,7 @@ all: Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/all
 
 # Build rule for subdir invocation for target.
 Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
 	$(MAKE) -f CMakeFiles\Makefile2 Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Class-Structurse/01.EclipseDistance/CMakeFiles/01_EclipseDistance.dir/rule
@@ -3763,7 +3763,7 @@ Class-Structurse/02.AreaPerimOfRectangle/preinstall:
 Class-Structurse/02.AreaPerimOfRectangle/CMakeFiles/02_AreaPerimOfRectangle.dir/all:
 	$(MAKE) -f Class-Structurse\02.AreaPerimOfRectangle\CMakeFiles\02_AreaPerimOfRectangle.dir\build.make Class-Structurse/02.AreaPerimOfRectangle/CMakeFiles/02_AreaPerimOfRectangle.dir/depend
 	$(MAKE) -f Class-Structurse\02.AreaPerimOfRectangle\CMakeFiles\02_AreaPerimOfRectangle.dir\build.make Class-Structurse/02.AreaPerimOfRectangle/CMakeFiles/02_AreaPerimOfRectangle.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target 02_AreaPerimOfRectangle"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=18,19 "Built target 02_AreaPerimOfRectangle"
 .PHONY : Class-Structurse/02.AreaPerimOfRectangle/CMakeFiles/02_AreaPerimOfRectangle.dir/all
 
 # Include target in all.
@@ -3818,7 +3818,7 @@ Class-Structurse/04.StudentsInfo/preinstall:
 Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/all:
 	$(MAKE) -f Class-Structurse\04.StudentsInfo\CMakeFiles\04_StudentsInfo.dir\build.make Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/depend
 	$(MAKE) -f Class-Structurse\04.StudentsInfo\CMakeFiles\04_StudentsInfo.dir\build.make Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=44 "Built target 04_StudentsInfo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=44,45 "Built target 04_StudentsInfo"
 .PHONY : Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/all
 
 # Include target in all.
@@ -3828,7 +3828,7 @@ all: Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/all
 
 # Build rule for subdir invocation for target.
 Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Class-Structurse/04.StudentsInfo/CMakeFiles/04_StudentsInfo.dir/rule
@@ -3873,7 +3873,7 @@ Class-Structurse/05.TotalAverageOfStudent/preinstall:
 Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/05_TotalAverageOfStudent.dir/all:
 	$(MAKE) -f Class-Structurse\05.TotalAverageOfStudent\CMakeFiles\05_TotalAverageOfStudent.dir\build.make Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/05_TotalAverageOfStudent.dir/depend
 	$(MAKE) -f Class-Structurse\05.TotalAverageOfStudent\CMakeFiles\05_TotalAverageOfStudent.dir\build.make Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/05_TotalAverageOfStudent.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=52 "Built target 05_TotalAverageOfStudent"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=53 "Built target 05_TotalAverageOfStudent"
 .PHONY : Class-Structurse/05.TotalAverageOfStudent/CMakeFiles/05_TotalAverageOfStudent.dir/all
 
 # Include target in all.
@@ -3928,7 +3928,7 @@ Library/preinstall:
 Library/CMakeFiles/Library.dir/all:
 	$(MAKE) -f Library\CMakeFiles\Library.dir\build.make Library/CMakeFiles/Library.dir/depend
 	$(MAKE) -f Library\CMakeFiles\Library.dir\build.make Library/CMakeFiles/Library.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=88 "Built target Library"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=88,89 "Built target Library"
 .PHONY : Library/CMakeFiles/Library.dir/all
 
 # Include target in all.
@@ -3938,7 +3938,7 @@ all: Library/CMakeFiles/Library.dir/all
 
 # Build rule for subdir invocation for target.
 Library/CMakeFiles/Library.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 Library/CMakeFiles/Library.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
 .PHONY : Library/CMakeFiles/Library.dir/rule
@@ -4010,6 +4010,61 @@ Exam/CMakeFiles/Exam.dir/clean:
 
 # clean rule for target.
 clean: Exam/CMakeFiles/Exam.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory Exam/01DiffrentStrings
+
+# Convenience name for "all" pass in the directory.
+Exam/01DiffrentStrings/all: Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/all
+
+.PHONY : Exam/01DiffrentStrings/all
+
+# Convenience name for "clean" pass in the directory.
+Exam/01DiffrentStrings/clean: Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/clean
+
+.PHONY : Exam/01DiffrentStrings/clean
+
+# Convenience name for "preinstall" pass in the directory.
+Exam/01DiffrentStrings/preinstall:
+
+.PHONY : Exam/01DiffrentStrings/preinstall
+
+#=============================================================================
+# Target rules for target Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir
+
+# All Build rule for target.
+Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/all:
+	$(MAKE) -f Exam\01DiffrentStrings\CMakeFiles\01DiffrentStrings.dir\build.make Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/depend
+	$(MAKE) -f Exam\01DiffrentStrings\CMakeFiles\01DiffrentStrings.dir\build.make Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target 01DiffrentStrings"
+.PHONY : Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/all
+
+# Include target in all.
+all: Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\Documents\Git_repo\Cpp-SoftUni\CPlusPlusFundamentals\cmake-build-debug\CMakeFiles 0
+.PHONY : Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/rule
+
+# Convenience name for target.
+01DiffrentStrings: Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/rule
+
+.PHONY : 01DiffrentStrings
+
+# clean rule for target.
+Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/clean:
+	$(MAKE) -f Exam\01DiffrentStrings\CMakeFiles\01DiffrentStrings.dir\build.make Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/clean
+.PHONY : Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/clean
+
+# clean rule for target.
+clean: Exam/01DiffrentStrings/CMakeFiles/01DiffrentStrings.dir/clean
 
 .PHONY : clean
 
