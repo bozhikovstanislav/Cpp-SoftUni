@@ -1,23 +1,25 @@
 #include <iostream>
 #include <string>
 #include <vector>
-void CompareToStrings(std::string firstStr, std::string secondString, int lenString) {
-    std::string first = firstStr;
-    std::string second = secondString;
-    std::vector<std::string> result ;
+
+std::string CompareToStrings(std::string firstStr, std::string secondString, int lenString) {
+     std::string a;
 
     for ( int i = 0; i < lenString; ++i ) {
-        if (first[i] == second[i]) {
-            std::cout << first[i];
-        } else if (int(first[i]) > int(second[i])) {
-            std::cout << result.push_back(second[i]);
-        }else if (int(first[i]) < int(second[i])){
-            std::cout << first[i];
-        }else if (int(first[i])!=int(second[i])){
-            std::cout << '#';
+        if (firstStr[i] == secondString[i]) {
+            a[i]=firstStr[i];
         }
-
+        if (firstStr[i] > secondString[i]) {
+            a[i]=secondString[i];
+        }
+        if (firstStr[i] < secondString[i]){
+            a[i]=firstStr[i];
+        }
+        if (firstStr[i] != secondString[i]){
+            a[i]='#';
+        }
     }
+    return a;
 }
 
 int main() {
@@ -27,6 +29,9 @@ int main() {
     std::cin >> firststr;
     std::string secondstr;
     std::cin >> secondstr;
-    CompareToStrings(firststr, secondstr, n);
+    std::string ss = CompareToStrings(firststr, secondstr, n);
+    for ( char cr: ss ) {
+        std::cout << cr;
+    }
     return 0;
 }
