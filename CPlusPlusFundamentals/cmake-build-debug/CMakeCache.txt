@@ -599,6 +599,12 @@ CrtesianProduct_BINARY_DIR:STATIC=E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFun
 CrtesianProduct_SOURCE_DIR:STATIC=E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/ArrayVectors/CrtesianProduct
 
 //Value Computed by CMake
+Exam_BINARY_DIR:STATIC=E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exam
+
+//Value Computed by CMake
+Exam_SOURCE_DIR:STATIC=E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/Exam
+
+//Value Computed by CMake
 Exarsise_Strings_Stream_LTC_BINARY_DIR:STATIC=E:/Documents/Git_repo/Cpp-SoftUni/CPlusPlusFundamentals/cmake-build-debug/Exarsise-Strings-Stream-LTC
 
 //Value Computed by CMake
@@ -773,7 +779,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=71
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=72
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

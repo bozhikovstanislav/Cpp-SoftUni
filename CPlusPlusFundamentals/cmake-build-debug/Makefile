@@ -1032,6 +1032,19 @@ Library/fast:
 	$(MAKE) -f Library\CMakeFiles\Library.dir\build.make Library/CMakeFiles/Library.dir/build
 .PHONY : Library/fast
 
+#=============================================================================
+# Target rules for targets named Exam
+
+# Build rule for target.
+Exam: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 Exam
+.PHONY : Exam
+
+# fast build rule for target.
+Exam/fast:
+	$(MAKE) -f Exam\CMakeFiles\Exam.dir\build.make Exam/CMakeFiles/Exam.dir/build
+.PHONY : Exam/fast
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -1138,6 +1151,7 @@ help:
 	@echo ... 04_StudentsInfo
 	@echo ... 05_TotalAverageOfStudent
 	@echo ... Library
+	@echo ... Exam
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

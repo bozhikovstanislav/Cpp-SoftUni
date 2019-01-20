@@ -80,7 +80,7 @@ add_subdirectory(Class-Structurse/04.StudentsInfo)
 add_subdirectory(Class-Structurse/05.TotalAverageOfStudent)
 add_subdirectory(Library)
 
-
+add_subdirectory(Exam)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(SofUniSalution main.cpp)
